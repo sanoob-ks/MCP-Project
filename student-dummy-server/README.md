@@ -1,6 +1,8 @@
-# Student Dummy API Server (Node.js & Express)
+# Student Dummy API Server (Node.js)
 
-ഒരു Node.js & Express വെബ് സെർവർ. ഇതിൽ വിദ്യാർത്ഥികളുടെ പേര്, വയസ്സ്, അഡ്രസ്സ് (സ്ഥലം, ജില്ല, പിൻകോഡ്), ടെക് സ്റ്റാക്ക് (MERN Stack, MEAN Stack, Angular, Python Full Stack മുതലായവ), ഓരോ ടെക്നോളജിയിലെയും സ്കിൽ ലെവലും റേറ്റിംഗും അടങ്ങിയ ഡമ്മി ഡാറ്റ ലഭ്യമാണ്.
+ഒരു Node.js വെബ് സെർവർ. ഇതിൽ 100 വിദ്യാർത്ഥികളുടെ പൂർണ്ണ വിവരങ്ങൾ (പേര്, വയസ്സ്, അഡ്രസ്സ്, വിവിധ ഐടി ടെക് സ്റ്റാക്കുകൾ, സ്കില്ലുകൾ & റേറ്റിംഗുകൾ) അടങ്ങിയ ഡമ്മി ഡാറ്റ ലഭ്യമാണ്.
+
+ഒരൊറ്റ API കോൾ വഴി (`GET /api/students`) 100 വിദ്യാർത്ഥികളുടെയും വിവരങ്ങൾ ഒന്നിച്ച് ലഭിക്കും.
 
 ---
 
@@ -11,58 +13,31 @@
    cd C:\Users\sanii\.gemini\antigravity\scratch\student-dummy-server
    ```
 
-2. ഡിപൻഡൻസികൾ ഇൻസ്റ്റാൾ ചെയ്യുക (ആദ്യ തവണ മാത്രം):
+2. സെർവർ സ്റ്റാർട്ട് ചെയ്യുക:
    ```bash
-   npm install
+   node server.js
    ```
-
-3. സെർവർ സ്റ്റാർട്ട് ചെയ്യുക:
-   ```bash
-   npm start
-   ```
-   *(അല്ലെങ്കിൽ `node server.js` എന്ന് നൽകാം)*
 
 സെർവർ സ്റ്റാർട്ട് ആകുമ്പോൾ ബ്രൗസറിലോ പോസ്റ്റ്മാനിലോ `http://localhost:5000` വഴി ഉപയോഗിക്കാം.
 
 ---
 
-## 📡 API Endpoints & ഉദാഹരണങ്ങൾ
+## 📡 പ്രധാന API Endpoints
 
-### 1. എല്ലാ വിദ്യാർത്ഥികളുടെയും വിവരങ്ങൾ ലഭിക്കാൻ (Get All Students)
+### 1. 100 വിദ്യാർത്ഥികളുടെയും വിവരങ്ങൾ ഒരൊറ്റ കോളിൽ ലഭിക്കാൻ:
 - **Method:** `GET`
 - **URL:** `http://localhost:5000/api/students`
 
-### 2. ഒരു വിദ്യാർത്ഥിയുടെ മാത്രം വിവരങ്ങൾ ID വെച്ച് എടുക്കാൻ (Get Single Student by ID)
-- **Method:** `GET`
-- **URL:** `http://localhost:5000/api/students/1`
-
-### 3. ടെക് സ്റ്റാക്ക് അനുസരിച്ച് ഫിൽട്ടർ ചെയ്യാൻ (Filter by Tech Stack)
-- **Method:** `GET`
-- **URL:** `http://localhost:5000/api/students?stack=mern`
-- അല്ലെങ്കിൽ: `http://localhost:5000/api/students/stack/mean`
-- അല്ലെങ്കിൽ: `http://localhost:5000/api/students/stack/angular`
-
-### 4. സ്ഥലം / ജില്ല അനുസരിച്ച് ഫിൽട്ടർ ചെയ്യാൻ (Filter by City/Place)
-- **Method:** `GET`
-- **URL:** `http://localhost:5000/api/students?city=kochi`
-
-### 5. സ്കിൽ അനുസരിച്ച് ഫിൽട്ടർ ചെയ്യാൻ (Filter by Specific Skill)
-- **Method:** `GET`
-- **URL:** `http://localhost:5000/api/students?skill=react`
-
----
-
-## 📋 ഡാറ്റാ ഘടന (Sample Response Format)
-
+**റെസ്‌പോൺസ് ഫോർമാറ്റ്:**
 ```json
 {
   "success": true,
-  "count": 6,
+  "count": 100,
   "data": [
     {
       "id": 1,
       "name": "Rahul Krishna",
-      "age": 22,
+      "age": 21,
       "address": {
         "houseName": "Krishna Kripa",
         "street": "MG Road",
@@ -73,61 +48,48 @@
         "pincode": "682024"
       },
       "techStack": "MERN Stack",
-      "overallExperience": "Intermediate",
+      "overallExperience": "Advanced",
       "skills": [
-        {
-          "skill": "MongoDB",
-          "level": "Intermediate",
-          "rating": 7.5,
-          "maxRating": 10
-        },
-        {
-          "skill": "Express.js",
-          "level": "Advanced",
-          "rating": 8.0,
-          "maxRating": 10
-        },
-        {
-          "skill": "React.js",
-          "level": "Advanced",
-          "rating": 8.5,
-          "maxRating": 10
-        },
-        {
-          "skill": "Node.js",
-          "level": "Intermediate",
-          "rating": 7.5,
-          "maxRating": 10
-        }
+        { "skill": "MongoDB", "level": "Intermediate", "rating": 7.5, "maxRating": 10 },
+        { "skill": "Express.js", "level": "Advanced", "rating": 8.0, "maxRating": 10 },
+        { "skill": "React.js", "level": "Expert", "rating": 8.5, "maxRating": 10 }
       ]
     }
+    // ... 100 വിദ്യാർത്ഥികൾ വരെ
   ]
 }
 ```
 
+### 2. ഒരു വിദ്യാർത്ഥിയുടെ മാത്രം വിവരങ്ങൾ എടുക്കാൻ (ID: 1 to 100):
+- **Method:** `GET`
+- **URL:** `http://localhost:5000/api/students/50`
+
+### 3. ടെക് സ്റ്റാക്ക് അനുസരിച്ച് ഫിൽട്ടർ ചെയ്യാൻ:
+- **Flutter:** `http://localhost:5000/api/students?stack=flutter`
+- **MERN Stack:** `http://localhost:5000/api/students?stack=mern`
+- **DevOps:** `http://localhost:5000/api/students?stack=devops`
+- **Data Science:** `http://localhost:5000/api/students?stack=data`
+- **Cyber Security:** `http://localhost:5000/api/students?stack=cyber`
+- **Java Spring Boot:** `http://localhost:5000/api/students?stack=java`
+
 ---
 
-## 💻 ഫ്രണ്ട്എൻഡിൽ (React/Angular/JS) എങ്ങനെ കോൾ ചെയ്യാം?
+## 💻 ഫ്രണ്ട്‌എൻഡിൽ 100 വിദ്യാർത്ഥികളെ ഫെച്ച് ചെയ്യുന്നതിനുള്ള കോഡ്:
 
-### JavaScript `fetch` ഉപയോഗിച്ച്:
+### JavaScript `fetch` / React Example:
 ```javascript
-fetch('http://localhost:5000/api/students')
-  .then(res => res.json())
-  .then(data => {
-    console.log('Students List:', data.data);
-  })
-  .catch(err => console.error('Error fetching students:', err));
-```
-
-### Async/Await ഉപയോഗിച്ച്:
-```javascript
-async function getStudents() {
+async function getAllStudents() {
   try {
     const response = await fetch('http://localhost:5000/api/students');
     const result = await response.json();
-    console.log(result.data);
+    
+    console.log(`ആകെ ലഭിച്ച വിദ്യാർത്ഥികൾ: ${result.count}`);
+    console.log('വിദ്യാർത്ഥികളുടെ ലിസ്റ്റ്:', result.data);
   } catch (error) {
-    console.error('Failed to load students:', error);
+    console.error('Error fetching students:', error);
   }
 }
+
+// കോൾ ചെയ്യാൻ
+getAllStudents();
 ```

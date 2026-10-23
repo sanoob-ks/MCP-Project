@@ -2,9 +2,9 @@
   {
     "id": 1,
     "name": "Rahul Krishna",
-    "age": 22,
+    "age": 21,
     "address": {
-      "houseName": "Krishna Kripa",
+      "houseName": "Bethel Villa",
       "street": "MG Road",
       "place": "Edappally",
       "city": "Kochi",
@@ -18,47 +18,35 @@
       {
         "skill": "MongoDB",
         "level": "Intermediate",
-        "rating": 7.5,
+        "rating": 7,
         "maxRating": 10
       },
       {
         "skill": "Express.js",
         "level": "Advanced",
-        "rating": 8.0,
+        "rating": 7.3,
         "maxRating": 10
       },
       {
         "skill": "React.js",
-        "level": "Advanced",
-        "rating": 8.5,
-        "maxRating": 10
-      },
-      {
-        "skill": "Node.js",
-        "level": "Intermediate",
-        "rating": 7.5,
-        "maxRating": 10
-      },
-      {
-        "skill": "JavaScript (ES6+)",
-        "level": "Advanced",
-        "rating": 8.5,
+        "level": "Expert",
+        "rating": 7.6,
         "maxRating": 10
       }
     ]
   },
   {
     "id": 2,
-    "name": "Ananya Nair",
-    "age": 23,
+    "name": "Ananya Menon",
+    "age": 22,
     "address": {
-      "houseName": "Sreevalsam",
-      "street": "Kowdiar Avenue",
-      "place": "Kowdiar",
-      "city": "Thiruvananthapuram",
-      "district": "Thiruvananthapuram",
+      "houseName": "Devi Nivas",
+      "street": "Infopark Road",
+      "place": "Kakkanad",
+      "city": "Kochi",
+      "district": "Ernakulam",
       "state": "Kerala",
-      "pincode": "695003"
+      "pincode": "682030"
     },
     "techStack": "MEAN Stack",
     "overallExperience": "Advanced",
@@ -66,41 +54,161 @@
       {
         "skill": "MongoDB",
         "level": "Advanced",
-        "rating": 8.0,
+        "rating": 7.7,
         "maxRating": 10
       },
       {
         "skill": "Express.js",
-        "level": "Intermediate",
-        "rating": 7.5,
+        "level": "Expert",
+        "rating": 8,
         "maxRating": 10
       },
       {
         "skill": "Angular",
-        "level": "Expert",
-        "rating": 9.0,
+        "level": "Intermediate",
+        "rating": 8.3,
         "maxRating": 10
       },
       {
         "skill": "Node.js",
         "level": "Advanced",
-        "rating": 8.0,
-        "maxRating": 10
-      },
-      {
-        "skill": "TypeScript",
-        "level": "Expert",
-        "rating": 9.0,
+        "rating": 8.6,
         "maxRating": 10
       }
     ]
   },
   {
     "id": 3,
-    "name": "Fahad Mohammed",
-    "age": 21,
+    "name": "Fahad Ahamed",
+    "age": 23,
     "address": {
-      "houseName": "Baitul Noor",
+      "houseName": "Thomas Villa",
+      "street": "Banerji Road",
+      "place": "Kaloor",
+      "city": "Kochi",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "pincode": "682017"
+    },
+    "techStack": "Angular & Frontend",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Angular",
+        "level": "Expert",
+        "rating": 8.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Intermediate",
+        "rating": 8.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "RxJS",
+        "level": "Advanced",
+        "rating": 9,
+        "maxRating": 10
+      },
+      {
+        "skill": "HTML5 / SCSS",
+        "level": "Expert",
+        "rating": 9.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Tailwind CSS",
+        "level": "Intermediate",
+        "rating": 7,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Devika Thomas",
+    "age": 24,
+    "address": {
+      "houseName": "Al-Madeena",
+      "street": "Kowdiar Avenue",
+      "place": "Kowdiar",
+      "city": "Thiruvananthapuram",
+      "district": "Thiruvananthapuram",
+      "state": "Kerala",
+      "pincode": "695003"
+    },
+    "techStack": "React & Next.js",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "React.js",
+        "level": "Intermediate",
+        "rating": 9.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Next.js",
+        "level": "Advanced",
+        "rating": 9.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Expert",
+        "rating": 7.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Arjun Kumar",
+    "age": 25,
+    "address": {
+      "houseName": "Palakkal House",
+      "street": "Technopark Road",
+      "place": "Kazhakoottam",
+      "city": "Thiruvananthapuram",
+      "district": "Thiruvananthapuram",
+      "state": "Kerala",
+      "pincode": "695582"
+    },
+    "techStack": "Python Full Stack",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Advanced",
+        "rating": 7.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Django",
+        "level": "Expert",
+        "rating": 7.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "FastAPI",
+        "level": "Intermediate",
+        "rating": 7.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "React.js",
+        "level": "Advanced",
+        "rating": 8.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sneha Nambiar",
+    "age": 26,
+    "address": {
+      "houseName": "Anugraha",
       "street": "Beach Road",
       "place": "Mananchira",
       "city": "Kozhikode",
@@ -108,47 +216,83 @@
       "state": "Kerala",
       "pincode": "673001"
     },
-    "techStack": "Angular Frontend",
-    "overallExperience": "Intermediate",
+    "techStack": "Java Spring Boot Full Stack",
+    "overallExperience": "Advanced",
     "skills": [
       {
-        "skill": "Angular",
-        "level": "Advanced",
-        "rating": 8.5,
-        "maxRating": 10
-      },
-      {
-        "skill": "TypeScript",
-        "level": "Advanced",
-        "rating": 8.0,
-        "maxRating": 10
-      },
-      {
-        "skill": "RxJS",
-        "level": "Intermediate",
-        "rating": 7.0,
-        "maxRating": 10
-      },
-      {
-        "skill": "HTML5 / SCSS",
+        "skill": "Java (Core & Adv)",
         "level": "Expert",
-        "rating": 9.0,
+        "rating": 7.9,
         "maxRating": 10
       },
       {
-        "skill": "Tailwind CSS",
+        "skill": "Spring Boot",
+        "level": "Intermediate",
+        "rating": 8.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Microservices",
         "level": "Advanced",
         "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Hibernate/JPA",
+        "level": "Expert",
+        "rating": 8.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "MySQL",
+        "level": "Intermediate",
+        "rating": 9.1,
         "maxRating": 10
       }
     ]
   },
   {
-    "id": 4,
-    "name": "Devika Menon",
-    "age": 24,
+    "id": 7,
+    "name": "Bilal Philip",
+    "age": 21,
     "address": {
-      "houseName": "Sobha Enclave",
+      "houseName": "Kailasam",
+      "street": "Mavoor Road",
+      "place": "Mavoor",
+      "city": "Kozhikode",
+      "district": "Kozhikode",
+      "state": "Kerala",
+      "pincode": "673004"
+    },
+    "techStack": "Flutter & Mobile Apps",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Flutter",
+        "level": "Intermediate",
+        "rating": 8.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Dart",
+        "level": "Advanced",
+        "rating": 8.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Firebase",
+        "level": "Expert",
+        "rating": 9.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Meera Mohan",
+    "age": 22,
+    "address": {
+      "houseName": "Grace Cottage",
       "street": "Round North",
       "place": "Swaraj Round",
       "city": "Thrissur",
@@ -156,19 +300,1075 @@
       "state": "Kerala",
       "pincode": "680001"
     },
+    "techStack": "DevOps & Cloud Engineering",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Docker",
+        "level": "Advanced",
+        "rating": 9.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kubernetes",
+        "level": "Expert",
+        "rating": 7,
+        "maxRating": 10
+      },
+      {
+        "skill": "AWS Cloud",
+        "level": "Intermediate",
+        "rating": 7.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "CI/CD Pipelines",
+        "level": "Advanced",
+        "rating": 7.6,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Adithya Namboodiri",
+    "age": 23,
+    "address": {
+      "houseName": "Nandanam",
+      "street": "College Road",
+      "place": "Chalakudy",
+      "city": "Thrissur",
+      "district": "Thrissur",
+      "state": "Kerala",
+      "pincode": "680307"
+    },
+    "techStack": "Data Science & Machine Learning",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Expert",
+        "rating": 7.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Pandas & NumPy",
+        "level": "Intermediate",
+        "rating": 7.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Machine Learning",
+        "level": "Advanced",
+        "rating": 8,
+        "maxRating": 10
+      },
+      {
+        "skill": "TensorFlow / PyTorch",
+        "level": "Expert",
+        "rating": 8.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Power BI",
+        "level": "Intermediate",
+        "rating": 8.6,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Rhea Sankar",
+    "age": 24,
+    "address": {
+      "houseName": "Olive Garden",
+      "street": "Boat Jetty Road",
+      "place": "Mullakkal",
+      "city": "Alappuzha",
+      "district": "Alappuzha",
+      "state": "Kerala",
+      "pincode": "688011"
+    },
+    "techStack": "UI/UX & Product Design",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Figma",
+        "level": "Intermediate",
+        "rating": 8.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Wireframing & Prototyping",
+        "level": "Advanced",
+        "rating": 8.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Design Systems",
+        "level": "Expert",
+        "rating": 8.7,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Vishnu Balakrishnan",
+    "age": 25,
+    "address": {
+      "houseName": "Krishna Kripa",
+      "street": "National Highway",
+      "place": "Cherthala",
+      "city": "Alappuzha",
+      "district": "Alappuzha",
+      "state": "Kerala",
+      "pincode": "688524"
+    },
+    "techStack": "Cyber Security & Ethical Hacking",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Network Security",
+        "level": "Advanced",
+        "rating": 8.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Penetration Testing",
+        "level": "Expert",
+        "rating": 9.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kali Linux",
+        "level": "Intermediate",
+        "rating": 9.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "OWASP Top 10",
+        "level": "Advanced",
+        "rating": 7.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Fathima Koya",
+    "age": 26,
+    "address": {
+      "houseName": "Baitul Noor",
+      "street": "Collectorate Road",
+      "place": "Kanjikuzhy",
+      "city": "Kottayam",
+      "district": "Kottayam",
+      "state": "Kerala",
+      "pincode": "686004"
+    },
+    "techStack": "Golang Backend & Microservices",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Golang",
+        "level": "Expert",
+        "rating": 9.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "gRPC & Protobuf",
+        "level": "Intermediate",
+        "rating": 7.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "PostgreSQL",
+        "level": "Advanced",
+        "rating": 7.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Docker",
+        "level": "Expert",
+        "rating": 7.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Redis",
+        "level": "Intermediate",
+        "rating": 8.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Kiran Shine",
+    "age": 21,
+    "address": {
+      "houseName": "Punnapra House",
+      "street": "Main Road",
+      "place": "Pala",
+      "city": "Kottayam",
+      "district": "Kottayam",
+      "state": "Kerala",
+      "pincode": "686575"
+    },
+    "techStack": "Android Native Development",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Kotlin",
+        "level": "Intermediate",
+        "rating": 7.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Android SDK",
+        "level": "Advanced",
+        "rating": 7.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Jetpack Compose",
+        "level": "Expert",
+        "rating": 8.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Sandra Krishna",
+    "age": 22,
+    "address": {
+      "houseName": "Darussalam",
+      "street": "Fort Maidan Road",
+      "place": "Palakkad Town",
+      "city": "Palakkad",
+      "district": "Palakkad",
+      "state": "Kerala",
+      "pincode": "678001"
+    },
+    "techStack": "Software QA & Test Automation",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Selenium WebDriver",
+        "level": "Advanced",
+        "rating": 8.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Cypress",
+        "level": "Expert",
+        "rating": 8.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Playwright",
+        "level": "Intermediate",
+        "rating": 8.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Postman / API Testing",
+        "level": "Advanced",
+        "rating": 9.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Rohit Menon",
+    "age": 23,
+    "address": {
+      "houseName": "Pournami",
+      "street": "Court Road",
+      "place": "Ottapalam",
+      "city": "Palakkad",
+      "district": "Palakkad",
+      "state": "Kerala",
+      "pincode": "679101"
+    },
     "techStack": "MERN Stack",
     "overallExperience": "Expert",
     "skills": [
       {
         "skill": "MongoDB",
         "level": "Expert",
-        "rating": 9.0,
+        "rating": 9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Intermediate",
+        "rating": 9.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "React.js",
+        "level": "Advanced",
+        "rating": 7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Node.js",
+        "level": "Expert",
+        "rating": 7.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "JavaScript (ES6+)",
+        "level": "Intermediate",
+        "rating": 7.6,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Pooja Ahamed",
+    "age": 24,
+    "address": {
+      "houseName": "Prasad Bhavan",
+      "street": "Down Hill Road",
+      "place": "Down Hill",
+      "city": "Malappuram",
+      "district": "Malappuram",
+      "state": "Kerala",
+      "pincode": "676505"
+    },
+    "techStack": "MEAN Stack",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Intermediate",
+        "rating": 7.1,
         "maxRating": 10
       },
       {
         "skill": "Express.js",
         "level": "Advanced",
+        "rating": 7.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Angular",
+        "level": "Expert",
+        "rating": 7.7,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Akhil Thomas",
+    "age": 25,
+    "address": {
+      "houseName": "Kiran Nivas",
+      "street": "Calicut Road",
+      "place": "Manjeri",
+      "city": "Malappuram",
+      "district": "Malappuram",
+      "state": "Kerala",
+      "pincode": "676121"
+    },
+    "techStack": "Angular & Frontend",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Angular",
+        "level": "Advanced",
+        "rating": 7.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Expert",
+        "rating": 8.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "RxJS",
+        "level": "Intermediate",
+        "rating": 8.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "HTML5 / SCSS",
+        "level": "Advanced",
+        "rating": 8.7,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Reshma Kumar",
+    "age": 26,
+    "address": {
+      "houseName": "Sreerangam",
+      "street": "Fort Road",
+      "place": "Payyannur",
+      "city": "Kannur",
+      "district": "Kannur",
+      "state": "Kerala",
+      "pincode": "670307"
+    },
+    "techStack": "React & Next.js",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "React.js",
+        "level": "Expert",
         "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Next.js",
+        "level": "Intermediate",
+        "rating": 8.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Advanced",
+        "rating": 9.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Tailwind CSS",
+        "level": "Expert",
+        "rating": 9.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Zustand",
+        "level": "Intermediate",
+        "rating": 7.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Harikrishnan Nambiar",
+    "age": 21,
+    "address": {
+      "houseName": "Souparnika",
+      "street": "Beach Road",
+      "place": "Thalassery",
+      "city": "Kannur",
+      "district": "Kannur",
+      "state": "Kerala",
+      "pincode": "670101"
+    },
+    "techStack": "Python Full Stack",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Intermediate",
+        "rating": 9.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Django",
+        "level": "Advanced",
+        "rating": 9.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "FastAPI",
+        "level": "Expert",
+        "rating": 7.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Kavya Philip",
+    "age": 22,
+    "address": {
+      "houseName": "Rose Villa",
+      "street": "Asramam Link Road",
+      "place": "Asramam",
+      "city": "Kollam",
+      "district": "Kollam",
+      "state": "Kerala",
+      "pincode": "691001"
+    },
+    "techStack": "Java Spring Boot Full Stack",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Java (Core & Adv)",
+        "level": "Advanced",
+        "rating": 7.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Spring Boot",
+        "level": "Expert",
+        "rating": 7.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Microservices",
+        "level": "Intermediate",
+        "rating": 7.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Hibernate/JPA",
+        "level": "Advanced",
+        "rating": 8.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Nithin Madhavan",
+    "age": 23,
+    "address": {
+      "houseName": "Aiswarya",
+      "street": "Station Road",
+      "place": "Karunagappally",
+      "city": "Kollam",
+      "district": "Kollam",
+      "state": "Kerala",
+      "pincode": "690518"
+    },
+    "techStack": "Flutter & Mobile Apps",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Flutter",
+        "level": "Expert",
+        "rating": 8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Dart",
+        "level": "Intermediate",
+        "rating": 8.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Firebase",
+        "level": "Advanced",
+        "rating": 8.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "BLoC State Mgmt",
+        "level": "Expert",
+        "rating": 8.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "REST API Integration",
+        "level": "Intermediate",
+        "rating": 9.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Anjali Suresh",
+    "age": 24,
+    "address": {
+      "houseName": "Sanctuary",
+      "street": "Bypass Road",
+      "place": "Kalpetta",
+      "city": "Wayanad",
+      "district": "Wayanad",
+      "state": "Kerala",
+      "pincode": "673121"
+    },
+    "techStack": "DevOps & Cloud Engineering",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Docker",
+        "level": "Intermediate",
+        "rating": 8.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kubernetes",
+        "level": "Advanced",
+        "rating": 9,
+        "maxRating": 10
+      },
+      {
+        "skill": "AWS Cloud",
+        "level": "Expert",
+        "rating": 9.3,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Gautham Mathew",
+    "age": 25,
+    "address": {
+      "houseName": "Hill View",
+      "street": "Ooty Road",
+      "place": "Sulthan Bathery",
+      "city": "Wayanad",
+      "district": "Wayanad",
+      "state": "Kerala",
+      "pincode": "673592"
+    },
+    "techStack": "Data Science & Machine Learning",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Advanced",
+        "rating": 9.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Pandas & NumPy",
+        "level": "Expert",
+        "rating": 7.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Machine Learning",
+        "level": "Intermediate",
+        "rating": 7.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "TensorFlow / PyTorch",
+        "level": "Advanced",
+        "rating": 7.7,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Divya Balakrishnan",
+    "age": 26,
+    "address": {
+      "houseName": "Sreevalsam",
+      "street": "Civil Station Road",
+      "place": "Thodupuzha",
+      "city": "Idukki",
+      "district": "Idukki",
+      "state": "Kerala",
+      "pincode": "685584"
+    },
+    "techStack": "UI/UX & Product Design",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Figma",
+        "level": "Expert",
+        "rating": 7.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Wireframing & Prototyping",
+        "level": "Intermediate",
+        "rating": 7.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Design Systems",
+        "level": "Advanced",
+        "rating": 8.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "User Research",
+        "level": "Expert",
+        "rating": 8.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "HTML/CSS",
+        "level": "Intermediate",
+        "rating": 8.7,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Abhiram Koya",
+    "age": 21,
+    "address": {
+      "houseName": "Sobha Enclave",
+      "street": "TB Junction",
+      "place": "Kattappana",
+      "city": "Idukki",
+      "district": "Idukki",
+      "state": "Kerala",
+      "pincode": "685508"
+    },
+    "techStack": "Cyber Security & Ethical Hacking",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Network Security",
+        "level": "Intermediate",
+        "rating": 8.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Penetration Testing",
+        "level": "Advanced",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kali Linux",
+        "level": "Expert",
+        "rating": 8.8,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Gopika Shine",
+    "age": 22,
+    "address": {
+      "houseName": "Bethel Villa",
+      "street": "Kottayam Road",
+      "place": "Thiruvalla",
+      "city": "Pathanamthitta",
+      "district": "Pathanamthitta",
+      "state": "Kerala",
+      "pincode": "689101"
+    },
+    "techStack": "Golang Backend & Microservices",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Golang",
+        "level": "Advanced",
+        "rating": 8.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "gRPC & Protobuf",
+        "level": "Expert",
+        "rating": 9.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "PostgreSQL",
+        "level": "Intermediate",
+        "rating": 9.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Docker",
+        "level": "Advanced",
+        "rating": 7.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Sanjay Krishna",
+    "age": 23,
+    "address": {
+      "houseName": "Devi Nivas",
+      "street": "Central Junction",
+      "place": "Adoor",
+      "city": "Pathanamthitta",
+      "district": "Pathanamthitta",
+      "state": "Kerala",
+      "pincode": "691523"
+    },
+    "techStack": "Android Native Development",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Kotlin",
+        "level": "Expert",
+        "rating": 7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Android SDK",
+        "level": "Intermediate",
+        "rating": 7.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Jetpack Compose",
+        "level": "Advanced",
+        "rating": 7.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Coroutines & Flow",
+        "level": "Expert",
+        "rating": 7.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Room DB",
+        "level": "Intermediate",
+        "rating": 8.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Aparna Menon",
+    "age": 24,
+    "address": {
+      "houseName": "Thomas Villa",
+      "street": "Main Road",
+      "place": "Kanhangad",
+      "city": "Kasaragod",
+      "district": "Kasaragod",
+      "state": "Kerala",
+      "pincode": "671315"
+    },
+    "techStack": "Software QA & Test Automation",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Selenium WebDriver",
+        "level": "Intermediate",
+        "rating": 7.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Cypress",
+        "level": "Advanced",
+        "rating": 8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Playwright",
+        "level": "Expert",
+        "rating": 8.3,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Muhammed Ahamed",
+    "age": 25,
+    "address": {
+      "houseName": "Al-Madeena",
+      "street": "MG Road",
+      "place": "Edappally",
+      "city": "Kochi",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "pincode": "682024"
+    },
+    "techStack": "MERN Stack",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Advanced",
+        "rating": 8.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Expert",
+        "rating": 8.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "React.js",
+        "level": "Intermediate",
+        "rating": 9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Node.js",
+        "level": "Advanced",
+        "rating": 9.3,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Parvathy Thomas",
+    "age": 26,
+    "address": {
+      "houseName": "Palakkal House",
+      "street": "Infopark Road",
+      "place": "Kakkanad",
+      "city": "Kochi",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "pincode": "682030"
+    },
+    "techStack": "MEAN Stack",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Expert",
+        "rating": 9.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Intermediate",
+        "rating": 9.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Angular",
+        "level": "Advanced",
+        "rating": 7.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Node.js",
+        "level": "Expert",
+        "rating": 7.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Intermediate",
+        "rating": 7.7,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Vivek Paul",
+    "age": 21,
+    "address": {
+      "houseName": "Anugraha",
+      "street": "Banerji Road",
+      "place": "Kaloor",
+      "city": "Kochi",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "pincode": "682017"
+    },
+    "techStack": "Angular & Frontend",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Angular",
+        "level": "Intermediate",
+        "rating": 7.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Advanced",
+        "rating": 7.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "RxJS",
+        "level": "Expert",
+        "rating": 7.8,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Sruthi Kurian",
+    "age": 22,
+    "address": {
+      "houseName": "Kailasam",
+      "street": "Kowdiar Avenue",
+      "place": "Kowdiar",
+      "city": "Thiruvananthapuram",
+      "district": "Thiruvananthapuram",
+      "state": "Kerala",
+      "pincode": "695003"
+    },
+    "techStack": "React & Next.js",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "React.js",
+        "level": "Advanced",
+        "rating": 7.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Next.js",
+        "level": "Expert",
+        "rating": 8.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Intermediate",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Tailwind CSS",
+        "level": "Advanced",
+        "rating": 8.8,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Midhun Joseph",
+    "age": 23,
+    "address": {
+      "houseName": "Grace Cottage",
+      "street": "Technopark Road",
+      "place": "Kazhakoottam",
+      "city": "Thiruvananthapuram",
+      "district": "Thiruvananthapuram",
+      "state": "Kerala",
+      "pincode": "695582"
+    },
+    "techStack": "Python Full Stack",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Expert",
+        "rating": 8.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Django",
+        "level": "Intermediate",
+        "rating": 8.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "FastAPI",
+        "level": "Advanced",
+        "rating": 9.2,
         "maxRating": 10
       },
       {
@@ -178,28 +1378,178 @@
         "maxRating": 10
       },
       {
-        "skill": "Node.js",
-        "level": "Advanced",
-        "rating": 8.5,
-        "maxRating": 10
-      },
-      {
-        "skill": "Redux Toolkit",
-        "level": "Advanced",
-        "rating": 8.5,
-        "maxRating": 10
-      },
-      {
-        "skill": "Next.js",
-        "level": "Advanced",
-        "rating": 8.0,
+        "skill": "PostgreSQL",
+        "level": "Intermediate",
+        "rating": 7.2,
         "maxRating": 10
       }
     ]
   },
   {
-    "id": 5,
-    "name": "Arjun Das",
+    "id": 34,
+    "name": "Ritu Madhavan",
+    "age": 24,
+    "address": {
+      "houseName": "Nandanam",
+      "street": "Beach Road",
+      "place": "Mananchira",
+      "city": "Kozhikode",
+      "district": "Kozhikode",
+      "state": "Kerala",
+      "pincode": "673001"
+    },
+    "techStack": "Java Spring Boot Full Stack",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Java (Core & Adv)",
+        "level": "Intermediate",
+        "rating": 9.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Spring Boot",
+        "level": "Advanced",
+        "rating": 7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Microservices",
+        "level": "Expert",
+        "rating": 7.3,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Ashwin Suresh",
+    "age": 25,
+    "address": {
+      "houseName": "Olive Garden",
+      "street": "Mavoor Road",
+      "place": "Mavoor",
+      "city": "Kozhikode",
+      "district": "Kozhikode",
+      "state": "Kerala",
+      "pincode": "673004"
+    },
+    "techStack": "Flutter & Mobile Apps",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Flutter",
+        "level": "Advanced",
+        "rating": 7.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Dart",
+        "level": "Expert",
+        "rating": 7.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Firebase",
+        "level": "Intermediate",
+        "rating": 8,
+        "maxRating": 10
+      },
+      {
+        "skill": "BLoC State Mgmt",
+        "level": "Advanced",
+        "rating": 8.3,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Arya Mathew",
+    "age": 26,
+    "address": {
+      "houseName": "Krishna Kripa",
+      "street": "Round North",
+      "place": "Swaraj Round",
+      "city": "Thrissur",
+      "district": "Thrissur",
+      "state": "Kerala",
+      "pincode": "680001"
+    },
+    "techStack": "DevOps & Cloud Engineering",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Docker",
+        "level": "Expert",
+        "rating": 8.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kubernetes",
+        "level": "Intermediate",
+        "rating": 8.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "AWS Cloud",
+        "level": "Advanced",
+        "rating": 8.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "CI/CD Pipelines",
+        "level": "Expert",
+        "rating": 9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Linux & Shell",
+        "level": "Intermediate",
+        "rating": 9.3,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Jithin Balakrishnan",
+    "age": 21,
+    "address": {
+      "houseName": "Baitul Noor",
+      "street": "College Road",
+      "place": "Chalakudy",
+      "city": "Thrissur",
+      "district": "Thrissur",
+      "state": "Kerala",
+      "pincode": "680307"
+    },
+    "techStack": "Data Science & Machine Learning",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Intermediate",
+        "rating": 8.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Pandas & NumPy",
+        "level": "Advanced",
+        "rating": 9.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Machine Learning",
+        "level": "Expert",
+        "rating": 9.4,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Lakshmi Koya",
     "age": 22,
     "address": {
       "houseName": "Punnapra House",
@@ -210,41 +1560,89 @@
       "state": "Kerala",
       "pincode": "688011"
     },
-    "techStack": "Python Full Stack",
-    "overallExperience": "Intermediate",
+    "techStack": "UI/UX & Product Design",
+    "overallExperience": "Advanced",
     "skills": [
       {
-        "skill": "Python",
+        "skill": "Figma",
         "level": "Advanced",
-        "rating": 8.5,
+        "rating": 9.5,
         "maxRating": 10
       },
       {
-        "skill": "Django",
+        "skill": "Wireframing & Prototyping",
+        "level": "Expert",
+        "rating": 7.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Design Systems",
         "level": "Intermediate",
         "rating": 7.5,
         "maxRating": 10
       },
       {
-        "skill": "React.js",
-        "level": "Intermediate",
-        "rating": 7.0,
-        "maxRating": 10
-      },
-      {
-        "skill": "PostgreSQL",
-        "level": "Intermediate",
-        "rating": 7.0,
+        "skill": "User Research",
+        "level": "Advanced",
+        "rating": 7.8,
         "maxRating": 10
       }
     ]
   },
   {
-    "id": 6,
-    "name": "Sneha Varghese",
+    "id": 39,
+    "name": "Varun Shine",
     "age": 23,
     "address": {
-      "houseName": "Bethel Villa",
+      "houseName": "Darussalam",
+      "street": "National Highway",
+      "place": "Cherthala",
+      "city": "Alappuzha",
+      "district": "Alappuzha",
+      "state": "Kerala",
+      "pincode": "688524"
+    },
+    "techStack": "Cyber Security & Ethical Hacking",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Network Security",
+        "level": "Expert",
+        "rating": 7.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Penetration Testing",
+        "level": "Intermediate",
+        "rating": 7.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kali Linux",
+        "level": "Advanced",
+        "rating": 8.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "OWASP Top 10",
+        "level": "Expert",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Wireshark",
+        "level": "Intermediate",
+        "rating": 8.8,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Malavika Krishna",
+    "age": 24,
+    "address": {
+      "houseName": "Pournami",
       "street": "Collectorate Road",
       "place": "Kanjikuzhy",
       "city": "Kottayam",
@@ -252,31 +1650,2545 @@
       "state": "Kerala",
       "pincode": "686004"
     },
-    "techStack": "MEAN Stack",
+    "techStack": "Golang Backend & Microservices",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Golang",
+        "level": "Intermediate",
+        "rating": 8.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "gRPC & Protobuf",
+        "level": "Advanced",
+        "rating": 8.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "PostgreSQL",
+        "level": "Expert",
+        "rating": 8.9,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Pranav Das",
+    "age": 25,
+    "address": {
+      "houseName": "Prasad Bhavan",
+      "street": "Main Road",
+      "place": "Pala",
+      "city": "Kottayam",
+      "district": "Kottayam",
+      "state": "Kerala",
+      "pincode": "686575"
+    },
+    "techStack": "Android Native Development",
     "overallExperience": "Intermediate",
     "skills": [
       {
-        "skill": "Angular",
+        "skill": "Kotlin",
         "level": "Advanced",
-        "rating": 8.0,
+        "rating": 9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Android SDK",
+        "level": "Expert",
+        "rating": 9.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Jetpack Compose",
+        "level": "Intermediate",
+        "rating": 7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Coroutines & Flow",
+        "level": "Advanced",
+        "rating": 7.3,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Shilpa Santhosh",
+    "age": 26,
+    "address": {
+      "houseName": "Kiran Nivas",
+      "street": "Fort Maidan Road",
+      "place": "Palakkad Town",
+      "city": "Palakkad",
+      "district": "Palakkad",
+      "state": "Kerala",
+      "pincode": "678001"
+    },
+    "techStack": "Software QA & Test Automation",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Selenium WebDriver",
+        "level": "Expert",
+        "rating": 7.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Cypress",
+        "level": "Intermediate",
+        "rating": 7.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Playwright",
+        "level": "Advanced",
+        "rating": 7.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Postman / API Testing",
+        "level": "Expert",
+        "rating": 8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Java/Python",
+        "level": "Intermediate",
+        "rating": 8.3,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Sarath Prasad",
+    "age": 21,
+    "address": {
+      "houseName": "Sreerangam",
+      "street": "Court Road",
+      "place": "Ottapalam",
+      "city": "Palakkad",
+      "district": "Palakkad",
+      "state": "Kerala",
+      "pincode": "679101"
+    },
+    "techStack": "MERN Stack",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Intermediate",
+        "rating": 7.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Advanced",
+        "rating": 8.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "React.js",
+        "level": "Expert",
+        "rating": 8.4,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Keerthi Paul",
+    "age": 22,
+    "address": {
+      "houseName": "Souparnika",
+      "street": "Down Hill Road",
+      "place": "Down Hill",
+      "city": "Malappuram",
+      "district": "Malappuram",
+      "state": "Kerala",
+      "pincode": "676505"
+    },
+    "techStack": "MEAN Stack",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Advanced",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Expert",
+        "rating": 8.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Angular",
+        "level": "Intermediate",
+        "rating": 9.1,
         "maxRating": 10
       },
       {
         "skill": "Node.js",
+        "level": "Advanced",
+        "rating": 9.4,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Sharaf Kurian",
+    "age": 23,
+    "address": {
+      "houseName": "Rose Villa",
+      "street": "Calicut Road",
+      "place": "Manjeri",
+      "city": "Malappuram",
+      "district": "Malappuram",
+      "state": "Kerala",
+      "pincode": "676121"
+    },
+    "techStack": "Angular & Frontend",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Angular",
+        "level": "Expert",
+        "rating": 9.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
         "level": "Intermediate",
-        "rating": 7.0,
+        "rating": 9.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "RxJS",
+        "level": "Advanced",
+        "rating": 7.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "HTML5 / SCSS",
+        "level": "Expert",
+        "rating": 7.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Tailwind CSS",
+        "level": "Intermediate",
+        "rating": 7.8,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Nandana Joseph",
+    "age": 24,
+    "address": {
+      "houseName": "Aiswarya",
+      "street": "Fort Road",
+      "place": "Payyannur",
+      "city": "Kannur",
+      "district": "Kannur",
+      "state": "Kerala",
+      "pincode": "670307"
+    },
+    "techStack": "React & Next.js",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "React.js",
+        "level": "Intermediate",
+        "rating": 7.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Next.js",
+        "level": "Advanced",
+        "rating": 7.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Expert",
+        "rating": 7.9,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Deepak Madhavan",
+    "age": 25,
+    "address": {
+      "houseName": "Sanctuary",
+      "street": "Beach Road",
+      "place": "Thalassery",
+      "city": "Kannur",
+      "district": "Kannur",
+      "state": "Kerala",
+      "pincode": "670101"
+    },
+    "techStack": "Python Full Stack",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Advanced",
+        "rating": 8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Django",
+        "level": "Expert",
+        "rating": 8.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "FastAPI",
+        "level": "Intermediate",
+        "rating": 8.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "React.js",
+        "level": "Advanced",
+        "rating": 8.9,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Athira Suresh",
+    "age": 26,
+    "address": {
+      "houseName": "Hill View",
+      "street": "Asramam Link Road",
+      "place": "Asramam",
+      "city": "Kollam",
+      "district": "Kollam",
+      "state": "Kerala",
+      "pincode": "691001"
+    },
+    "techStack": "Java Spring Boot Full Stack",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Java (Core & Adv)",
+        "level": "Expert",
+        "rating": 8.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Spring Boot",
+        "level": "Intermediate",
+        "rating": 9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Microservices",
+        "level": "Advanced",
+        "rating": 9.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Hibernate/JPA",
+        "level": "Expert",
+        "rating": 7,
+        "maxRating": 10
+      },
+      {
+        "skill": "MySQL",
+        "level": "Intermediate",
+        "rating": 7.3,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Amal Mathew",
+    "age": 21,
+    "address": {
+      "houseName": "Sreevalsam",
+      "street": "Station Road",
+      "place": "Karunagappally",
+      "city": "Kollam",
+      "district": "Kollam",
+      "state": "Kerala",
+      "pincode": "690518"
+    },
+    "techStack": "Flutter & Mobile Apps",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Flutter",
+        "level": "Intermediate",
+        "rating": 9.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Dart",
+        "level": "Advanced",
+        "rating": 7.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Firebase",
+        "level": "Expert",
+        "rating": 7.4,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Revathy Balakrishnan",
+    "age": 22,
+    "address": {
+      "houseName": "Sobha Enclave",
+      "street": "Bypass Road",
+      "place": "Kalpetta",
+      "city": "Wayanad",
+      "district": "Wayanad",
+      "state": "Kerala",
+      "pincode": "673121"
+    },
+    "techStack": "DevOps & Cloud Engineering",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Docker",
+        "level": "Advanced",
+        "rating": 7.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kubernetes",
+        "level": "Expert",
+        "rating": 7.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "AWS Cloud",
+        "level": "Intermediate",
+        "rating": 8.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "CI/CD Pipelines",
+        "level": "Advanced",
+        "rating": 8.4,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Naveen Ali",
+    "age": 23,
+    "address": {
+      "houseName": "Bethel Villa",
+      "street": "Ooty Road",
+      "place": "Sulthan Bathery",
+      "city": "Wayanad",
+      "district": "Wayanad",
+      "state": "Kerala",
+      "pincode": "673592"
+    },
+    "techStack": "Data Science & Machine Learning",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Expert",
+        "rating": 8.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Pandas & NumPy",
+        "level": "Intermediate",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Machine Learning",
+        "level": "Advanced",
+        "rating": 8.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "TensorFlow / PyTorch",
+        "level": "Expert",
+        "rating": 9.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Power BI",
+        "level": "Intermediate",
+        "rating": 9.4,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Gayathri Vaidyan",
+    "age": 24,
+    "address": {
+      "houseName": "Devi Nivas",
+      "street": "Civil Station Road",
+      "place": "Thodupuzha",
+      "city": "Idukki",
+      "district": "Idukki",
+      "state": "Kerala",
+      "pincode": "685584"
+    },
+    "techStack": "UI/UX & Product Design",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Figma",
+        "level": "Intermediate",
+        "rating": 8.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Wireframing & Prototyping",
+        "level": "Advanced",
+        "rating": 9.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Design Systems",
+        "level": "Expert",
+        "rating": 9.5,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Sujith Nair",
+    "age": 25,
+    "address": {
+      "houseName": "Thomas Villa",
+      "street": "TB Junction",
+      "place": "Kattappana",
+      "city": "Idukki",
+      "district": "Idukki",
+      "state": "Kerala",
+      "pincode": "685508"
+    },
+    "techStack": "Cyber Security & Ethical Hacking",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Network Security",
+        "level": "Advanced",
+        "rating": 7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Penetration Testing",
+        "level": "Expert",
+        "rating": 7.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kali Linux",
+        "level": "Intermediate",
+        "rating": 7.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "OWASP Top 10",
+        "level": "Advanced",
+        "rating": 7.9,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Anupama Das",
+    "age": 26,
+    "address": {
+      "houseName": "Al-Madeena",
+      "street": "Kottayam Road",
+      "place": "Thiruvalla",
+      "city": "Pathanamthitta",
+      "district": "Pathanamthitta",
+      "state": "Kerala",
+      "pincode": "689101"
+    },
+    "techStack": "Golang Backend & Microservices",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Golang",
+        "level": "Expert",
+        "rating": 7.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "gRPC & Protobuf",
+        "level": "Intermediate",
+        "rating": 8,
+        "maxRating": 10
+      },
+      {
+        "skill": "PostgreSQL",
+        "level": "Advanced",
+        "rating": 8.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Docker",
+        "level": "Expert",
+        "rating": 8.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Redis",
+        "level": "Intermediate",
+        "rating": 8.9,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Sreeraj Santhosh",
+    "age": 21,
+    "address": {
+      "houseName": "Palakkal House",
+      "street": "Central Junction",
+      "place": "Adoor",
+      "city": "Pathanamthitta",
+      "district": "Pathanamthitta",
+      "state": "Kerala",
+      "pincode": "691523"
+    },
+    "techStack": "Android Native Development",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Kotlin",
+        "level": "Intermediate",
+        "rating": 8.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Android SDK",
+        "level": "Advanced",
+        "rating": 8.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Jetpack Compose",
+        "level": "Expert",
+        "rating": 9,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Deepthi Prasad",
+    "age": 22,
+    "address": {
+      "houseName": "Anugraha",
+      "street": "Main Road",
+      "place": "Kanhangad",
+      "city": "Kasaragod",
+      "district": "Kasaragod",
+      "state": "Kerala",
+      "pincode": "671315"
+    },
+    "techStack": "Software QA & Test Automation",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Selenium WebDriver",
+        "level": "Advanced",
+        "rating": 9.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Cypress",
+        "level": "Expert",
+        "rating": 9.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Playwright",
+        "level": "Intermediate",
+        "rating": 7.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Postman / API Testing",
+        "level": "Advanced",
+        "rating": 7.4,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Basil Paul",
+    "age": 23,
+    "address": {
+      "houseName": "Kailasam",
+      "street": "MG Road",
+      "place": "Edappally",
+      "city": "Kochi",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "pincode": "682024"
+    },
+    "techStack": "MERN Stack",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Expert",
+        "rating": 7.2,
         "maxRating": 10
       },
       {
         "skill": "Express.js",
         "level": "Intermediate",
-        "rating": 7.0,
+        "rating": 7.5,
         "maxRating": 10
       },
       {
+        "skill": "React.js",
+        "level": "Advanced",
+        "rating": 7.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Node.js",
+        "level": "Expert",
+        "rating": 8.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "JavaScript (ES6+)",
+        "level": "Intermediate",
+        "rating": 8.4,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Aysha Kurian",
+    "age": 24,
+    "address": {
+      "houseName": "Grace Cottage",
+      "street": "Infopark Road",
+      "place": "Kakkanad",
+      "city": "Kochi",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "pincode": "682030"
+    },
+    "techStack": "MEAN Stack",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
         "skill": "MongoDB",
         "level": "Intermediate",
-        "rating": 7.0,
+        "rating": 7.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Advanced",
+        "rating": 8.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Angular",
+        "level": "Expert",
+        "rating": 8.5,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Roshan Joseph",
+    "age": 25,
+    "address": {
+      "houseName": "Nandanam",
+      "street": "Banerji Road",
+      "place": "Kaloor",
+      "city": "Kochi",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "pincode": "682017"
+    },
+    "techStack": "Angular & Frontend",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Angular",
+        "level": "Advanced",
+        "rating": 8.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Expert",
+        "rating": 8.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "RxJS",
+        "level": "Intermediate",
+        "rating": 9.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "HTML5 / SCSS",
+        "level": "Advanced",
+        "rating": 9.5,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Diya Madhavan",
+    "age": 26,
+    "address": {
+      "houseName": "Olive Garden",
+      "street": "Kowdiar Avenue",
+      "place": "Kowdiar",
+      "city": "Thiruvananthapuram",
+      "district": "Thiruvananthapuram",
+      "state": "Kerala",
+      "pincode": "695003"
+    },
+    "techStack": "React & Next.js",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "React.js",
+        "level": "Expert",
+        "rating": 9.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Next.js",
+        "level": "Intermediate",
+        "rating": 7,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Advanced",
+        "rating": 7.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Tailwind CSS",
+        "level": "Expert",
+        "rating": 7.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Zustand",
+        "level": "Intermediate",
+        "rating": 7.9,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Manu Babu",
+    "age": 21,
+    "address": {
+      "houseName": "Krishna Kripa",
+      "street": "Technopark Road",
+      "place": "Kazhakoottam",
+      "city": "Thiruvananthapuram",
+      "district": "Thiruvananthapuram",
+      "state": "Kerala",
+      "pincode": "695582"
+    },
+    "techStack": "Python Full Stack",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Intermediate",
+        "rating": 7.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Django",
+        "level": "Advanced",
+        "rating": 7.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "FastAPI",
+        "level": "Expert",
+        "rating": 8,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Swathy Chacko",
+    "age": 22,
+    "address": {
+      "houseName": "Baitul Noor",
+      "street": "Beach Road",
+      "place": "Mananchira",
+      "city": "Kozhikode",
+      "district": "Kozhikode",
+      "state": "Kerala",
+      "pincode": "673001"
+    },
+    "techStack": "Java Spring Boot Full Stack",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Java (Core & Adv)",
+        "level": "Advanced",
+        "rating": 8.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Spring Boot",
+        "level": "Expert",
+        "rating": 8.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Microservices",
+        "level": "Intermediate",
+        "rating": 8.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Hibernate/JPA",
+        "level": "Advanced",
+        "rating": 9,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Aravind Warrier",
+    "age": 23,
+    "address": {
+      "houseName": "Punnapra House",
+      "street": "Mavoor Road",
+      "place": "Mavoor",
+      "city": "Kozhikode",
+      "district": "Kozhikode",
+      "state": "Kerala",
+      "pincode": "673004"
+    },
+    "techStack": "Flutter & Mobile Apps",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Flutter",
+        "level": "Expert",
+        "rating": 8.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Dart",
+        "level": "Intermediate",
+        "rating": 9.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Firebase",
+        "level": "Advanced",
+        "rating": 9.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "BLoC State Mgmt",
+        "level": "Expert",
+        "rating": 7.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "REST API Integration",
+        "level": "Intermediate",
+        "rating": 7.4,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Nimisha Ali",
+    "age": 24,
+    "address": {
+      "houseName": "Darussalam",
+      "street": "Round North",
+      "place": "Swaraj Round",
+      "city": "Thrissur",
+      "district": "Thrissur",
+      "state": "Kerala",
+      "pincode": "680001"
+    },
+    "techStack": "DevOps & Cloud Engineering",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Docker",
+        "level": "Intermediate",
+        "rating": 9.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kubernetes",
+        "level": "Advanced",
+        "rating": 7.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "AWS Cloud",
+        "level": "Expert",
+        "rating": 7.5,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Joel Vaidyan",
+    "age": 25,
+    "address": {
+      "houseName": "Pournami",
+      "street": "College Road",
+      "place": "Chalakudy",
+      "city": "Thrissur",
+      "district": "Thrissur",
+      "state": "Kerala",
+      "pincode": "680307"
+    },
+    "techStack": "Data Science & Machine Learning",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Advanced",
+        "rating": 7.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Pandas & NumPy",
+        "level": "Expert",
+        "rating": 7.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Machine Learning",
+        "level": "Intermediate",
+        "rating": 8.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "TensorFlow / PyTorch",
+        "level": "Advanced",
+        "rating": 8.5,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Shilpa Nair",
+    "age": 26,
+    "address": {
+      "houseName": "Prasad Bhavan",
+      "street": "Boat Jetty Road",
+      "place": "Mullakkal",
+      "city": "Alappuzha",
+      "district": "Alappuzha",
+      "state": "Kerala",
+      "pincode": "688011"
+    },
+    "techStack": "UI/UX & Product Design",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Figma",
+        "level": "Expert",
+        "rating": 8.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Wireframing & Prototyping",
+        "level": "Intermediate",
+        "rating": 8.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Design Systems",
+        "level": "Advanced",
+        "rating": 8.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "User Research",
+        "level": "Expert",
+        "rating": 9.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "HTML/CSS",
+        "level": "Intermediate",
+        "rating": 9.5,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Ajay Das",
+    "age": 21,
+    "address": {
+      "houseName": "Kiran Nivas",
+      "street": "National Highway",
+      "place": "Cherthala",
+      "city": "Alappuzha",
+      "district": "Alappuzha",
+      "state": "Kerala",
+      "pincode": "688524"
+    },
+    "techStack": "Cyber Security & Ethical Hacking",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Network Security",
+        "level": "Intermediate",
+        "rating": 9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Penetration Testing",
+        "level": "Advanced",
+        "rating": 9.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kali Linux",
+        "level": "Expert",
+        "rating": 7,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Arya Santhosh",
+    "age": 22,
+    "address": {
+      "houseName": "Sreerangam",
+      "street": "Collectorate Road",
+      "place": "Kanjikuzhy",
+      "city": "Kottayam",
+      "district": "Kottayam",
+      "state": "Kerala",
+      "pincode": "686004"
+    },
+    "techStack": "Golang Backend & Microservices",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Golang",
+        "level": "Advanced",
+        "rating": 7.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "gRPC & Protobuf",
+        "level": "Expert",
+        "rating": 7.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "PostgreSQL",
+        "level": "Intermediate",
+        "rating": 7.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Docker",
+        "level": "Advanced",
+        "rating": 8,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Siddharth Prasad",
+    "age": 23,
+    "address": {
+      "houseName": "Souparnika",
+      "street": "Main Road",
+      "place": "Pala",
+      "city": "Kottayam",
+      "district": "Kottayam",
+      "state": "Kerala",
+      "pincode": "686575"
+    },
+    "techStack": "Android Native Development",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Kotlin",
+        "level": "Expert",
+        "rating": 7.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Android SDK",
+        "level": "Intermediate",
+        "rating": 8.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Jetpack Compose",
+        "level": "Advanced",
+        "rating": 8.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Coroutines & Flow",
+        "level": "Expert",
+        "rating": 8.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Room DB",
+        "level": "Intermediate",
+        "rating": 9,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Greeshma Paul",
+    "age": 24,
+    "address": {
+      "houseName": "Rose Villa",
+      "street": "Fort Maidan Road",
+      "place": "Palakkad Town",
+      "city": "Palakkad",
+      "district": "Palakkad",
+      "state": "Kerala",
+      "pincode": "678001"
+    },
+    "techStack": "Software QA & Test Automation",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Selenium WebDriver",
+        "level": "Intermediate",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Cypress",
+        "level": "Advanced",
+        "rating": 8.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Playwright",
+        "level": "Expert",
+        "rating": 9.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Ebin Joy",
+    "age": 25,
+    "address": {
+      "houseName": "Aiswarya",
+      "street": "Court Road",
+      "place": "Ottapalam",
+      "city": "Palakkad",
+      "district": "Palakkad",
+      "state": "Kerala",
+      "pincode": "679101"
+    },
+    "techStack": "MERN Stack",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Advanced",
+        "rating": 9.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Expert",
+        "rating": 9.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "React.js",
+        "level": "Intermediate",
+        "rating": 7.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Node.js",
+        "level": "Advanced",
+        "rating": 7.5,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Safa George",
+    "age": 26,
+    "address": {
+      "houseName": "Sanctuary",
+      "street": "Down Hill Road",
+      "place": "Down Hill",
+      "city": "Malappuram",
+      "district": "Malappuram",
+      "state": "Kerala",
+      "pincode": "676505"
+    },
+    "techStack": "MEAN Stack",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Expert",
+        "rating": 7.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Intermediate",
+        "rating": 7.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Angular",
+        "level": "Advanced",
+        "rating": 7.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Node.js",
+        "level": "Expert",
+        "rating": 8.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Intermediate",
+        "rating": 8.5,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Karthik Raj",
+    "age": 21,
+    "address": {
+      "houseName": "Hill View",
+      "street": "Calicut Road",
+      "place": "Manjeri",
+      "city": "Malappuram",
+      "district": "Malappuram",
+      "state": "Kerala",
+      "pincode": "676121"
+    },
+    "techStack": "Angular & Frontend",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Angular",
+        "level": "Intermediate",
+        "rating": 8,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Advanced",
+        "rating": 8.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "RxJS",
+        "level": "Expert",
+        "rating": 8.6,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Bhavana Babu",
+    "age": 22,
+    "address": {
+      "houseName": "Sreevalsam",
+      "street": "Fort Road",
+      "place": "Payyannur",
+      "city": "Kannur",
+      "district": "Kannur",
+      "state": "Kerala",
+      "pincode": "670307"
+    },
+    "techStack": "React & Next.js",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "React.js",
+        "level": "Advanced",
+        "rating": 8.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Next.js",
+        "level": "Expert",
+        "rating": 9,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Intermediate",
+        "rating": 9.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Tailwind CSS",
+        "level": "Advanced",
+        "rating": 7,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Alen Chacko",
+    "age": 23,
+    "address": {
+      "houseName": "Sobha Enclave",
+      "street": "Beach Road",
+      "place": "Thalassery",
+      "city": "Kannur",
+      "district": "Kannur",
+      "state": "Kerala",
+      "pincode": "670101"
+    },
+    "techStack": "Python Full Stack",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Expert",
+        "rating": 9.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Django",
+        "level": "Intermediate",
+        "rating": 7.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "FastAPI",
+        "level": "Advanced",
+        "rating": 7.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "React.js",
+        "level": "Expert",
+        "rating": 7.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "PostgreSQL",
+        "level": "Intermediate",
+        "rating": 8,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Archana Warrier",
+    "age": 24,
+    "address": {
+      "houseName": "Bethel Villa",
+      "street": "Asramam Link Road",
+      "place": "Asramam",
+      "city": "Kollam",
+      "district": "Kollam",
+      "state": "Kerala",
+      "pincode": "691001"
+    },
+    "techStack": "Java Spring Boot Full Stack",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Java (Core & Adv)",
+        "level": "Intermediate",
+        "rating": 7.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Spring Boot",
+        "level": "Advanced",
+        "rating": 7.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Microservices",
+        "level": "Expert",
+        "rating": 8.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Ramees Ali",
+    "age": 25,
+    "address": {
+      "houseName": "Devi Nivas",
+      "street": "Station Road",
+      "place": "Karunagappally",
+      "city": "Kollam",
+      "district": "Kollam",
+      "state": "Kerala",
+      "pincode": "690518"
+    },
+    "techStack": "Flutter & Mobile Apps",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Flutter",
+        "level": "Advanced",
+        "rating": 8.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Dart",
+        "level": "Expert",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Firebase",
+        "level": "Intermediate",
+        "rating": 8.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "BLoC State Mgmt",
+        "level": "Advanced",
+        "rating": 9.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Surabhi Vaidyan",
+    "age": 26,
+    "address": {
+      "houseName": "Thomas Villa",
+      "street": "Bypass Road",
+      "place": "Kalpetta",
+      "city": "Wayanad",
+      "district": "Wayanad",
+      "state": "Kerala",
+      "pincode": "673121"
+    },
+    "techStack": "DevOps & Cloud Engineering",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Docker",
+        "level": "Expert",
+        "rating": 8.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kubernetes",
+        "level": "Intermediate",
+        "rating": 9.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "AWS Cloud",
+        "level": "Advanced",
+        "rating": 9.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "CI/CD Pipelines",
+        "level": "Expert",
+        "rating": 7.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Linux & Shell",
+        "level": "Intermediate",
+        "rating": 7.5,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Sreehari Nair",
+    "age": 21,
+    "address": {
+      "houseName": "Al-Madeena",
+      "street": "Ooty Road",
+      "place": "Sulthan Bathery",
+      "city": "Wayanad",
+      "district": "Wayanad",
+      "state": "Kerala",
+      "pincode": "673592"
+    },
+    "techStack": "Data Science & Machine Learning",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Intermediate",
+        "rating": 7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Pandas & NumPy",
+        "level": "Advanced",
+        "rating": 7.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Machine Learning",
+        "level": "Expert",
+        "rating": 7.6,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Haritha Das",
+    "age": 22,
+    "address": {
+      "houseName": "Palakkal House",
+      "street": "Civil Station Road",
+      "place": "Thodupuzha",
+      "city": "Idukki",
+      "district": "Idukki",
+      "state": "Kerala",
+      "pincode": "685584"
+    },
+    "techStack": "UI/UX & Product Design",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Figma",
+        "level": "Advanced",
+        "rating": 7.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Wireframing & Prototyping",
+        "level": "Expert",
+        "rating": 8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Design Systems",
+        "level": "Intermediate",
+        "rating": 8.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "User Research",
+        "level": "Advanced",
+        "rating": 8.6,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Sujith R.",
+    "age": 23,
+    "address": {
+      "houseName": "Anugraha",
+      "street": "TB Junction",
+      "place": "Kattappana",
+      "city": "Idukki",
+      "district": "Idukki",
+      "state": "Kerala",
+      "pincode": "685508"
+    },
+    "techStack": "Cyber Security & Ethical Hacking",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Network Security",
+        "level": "Expert",
+        "rating": 8.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Penetration Testing",
+        "level": "Intermediate",
+        "rating": 8.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kali Linux",
+        "level": "Advanced",
+        "rating": 9,
+        "maxRating": 10
+      },
+      {
+        "skill": "OWASP Top 10",
+        "level": "Expert",
+        "rating": 9.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Wireshark",
+        "level": "Intermediate",
+        "rating": 7,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Manjima Hameed",
+    "age": 24,
+    "address": {
+      "houseName": "Kailasam",
+      "street": "Kottayam Road",
+      "place": "Thiruvalla",
+      "city": "Pathanamthitta",
+      "district": "Pathanamthitta",
+      "state": "Kerala",
+      "pincode": "689101"
+    },
+    "techStack": "Golang Backend & Microservices",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Golang",
+        "level": "Intermediate",
+        "rating": 9.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "gRPC & Protobuf",
+        "level": "Advanced",
+        "rating": 9.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "PostgreSQL",
+        "level": "Expert",
+        "rating": 7.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Vaisakh Pillai",
+    "age": 25,
+    "address": {
+      "houseName": "Grace Cottage",
+      "street": "Central Junction",
+      "place": "Adoor",
+      "city": "Pathanamthitta",
+      "district": "Pathanamthitta",
+      "state": "Kerala",
+      "pincode": "691523"
+    },
+    "techStack": "Android Native Development",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Kotlin",
+        "level": "Advanced",
+        "rating": 7.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Android SDK",
+        "level": "Expert",
+        "rating": 7.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Jetpack Compose",
+        "level": "Intermediate",
+        "rating": 7.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Coroutines & Flow",
+        "level": "Advanced",
+        "rating": 8.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Aswathy Joy",
+    "age": 26,
+    "address": {
+      "houseName": "Nandanam",
+      "street": "Main Road",
+      "place": "Kanhangad",
+      "city": "Kasaragod",
+      "district": "Kasaragod",
+      "state": "Kerala",
+      "pincode": "671315"
+    },
+    "techStack": "Software QA & Test Automation",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Selenium WebDriver",
+        "level": "Expert",
+        "rating": 7.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Cypress",
+        "level": "Intermediate",
+        "rating": 8.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Playwright",
+        "level": "Advanced",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Postman / API Testing",
+        "level": "Expert",
+        "rating": 8.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Java/Python",
+        "level": "Intermediate",
+        "rating": 9.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Rehan George",
+    "age": 21,
+    "address": {
+      "houseName": "Olive Garden",
+      "street": "MG Road",
+      "place": "Edappally",
+      "city": "Kochi",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "pincode": "682024"
+    },
+    "techStack": "MERN Stack",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Intermediate",
+        "rating": 8.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Advanced",
+        "rating": 8.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "React.js",
+        "level": "Expert",
+        "rating": 9.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Roshni Raj",
+    "age": 22,
+    "address": {
+      "houseName": "Krishna Kripa",
+      "street": "Infopark Road",
+      "place": "Kakkanad",
+      "city": "Kochi",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "pincode": "682030"
+    },
+    "techStack": "MEAN Stack",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Advanced",
+        "rating": 9.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Expert",
+        "rating": 7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Angular",
+        "level": "Intermediate",
+        "rating": 7.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Node.js",
+        "level": "Advanced",
+        "rating": 7.6,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Dhanush Babu",
+    "age": 23,
+    "address": {
+      "houseName": "Baitul Noor",
+      "street": "Banerji Road",
+      "place": "Kaloor",
+      "city": "Kochi",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "pincode": "682017"
+    },
+    "techStack": "Angular & Frontend",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Angular",
+        "level": "Expert",
+        "rating": 7.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Intermediate",
+        "rating": 7.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "RxJS",
+        "level": "Advanced",
+        "rating": 8,
+        "maxRating": 10
+      },
+      {
+        "skill": "HTML5 / SCSS",
+        "level": "Expert",
+        "rating": 8.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Tailwind CSS",
+        "level": "Intermediate",
+        "rating": 8.6,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Sangeetha Chacko",
+    "age": 24,
+    "address": {
+      "houseName": "Punnapra House",
+      "street": "Kowdiar Avenue",
+      "place": "Kowdiar",
+      "city": "Thiruvananthapuram",
+      "district": "Thiruvananthapuram",
+      "state": "Kerala",
+      "pincode": "695003"
+    },
+    "techStack": "React & Next.js",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "React.js",
+        "level": "Intermediate",
+        "rating": 8.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Next.js",
+        "level": "Advanced",
+        "rating": 8.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Expert",
+        "rating": 8.7,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Nikhil Warrier",
+    "age": 25,
+    "address": {
+      "houseName": "Darussalam",
+      "street": "Technopark Road",
+      "place": "Kazhakoottam",
+      "city": "Thiruvananthapuram",
+      "district": "Thiruvananthapuram",
+      "state": "Kerala",
+      "pincode": "695582"
+    },
+    "techStack": "Python Full Stack",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Advanced",
+        "rating": 8.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Django",
+        "level": "Expert",
+        "rating": 9.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "FastAPI",
+        "level": "Intermediate",
+        "rating": 9.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "React.js",
+        "level": "Advanced",
+        "rating": 7.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Pavithra Ali",
+    "age": 26,
+    "address": {
+      "houseName": "Pournami",
+      "street": "Beach Road",
+      "place": "Mananchira",
+      "city": "Kozhikode",
+      "district": "Kozhikode",
+      "state": "Kerala",
+      "pincode": "673001"
+    },
+    "techStack": "Java Spring Boot Full Stack",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Java (Core & Adv)",
+        "level": "Expert",
+        "rating": 9.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Spring Boot",
+        "level": "Intermediate",
+        "rating": 7.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Microservices",
+        "level": "Advanced",
+        "rating": 7.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Hibernate/JPA",
+        "level": "Expert",
+        "rating": 7.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "MySQL",
+        "level": "Intermediate",
+        "rating": 8.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Akshay Gopinath",
+    "age": 21,
+    "address": {
+      "houseName": "Prasad Bhavan",
+      "street": "Mavoor Road",
+      "place": "Mavoor",
+      "city": "Kozhikode",
+      "district": "Kozhikode",
+      "state": "Kerala",
+      "pincode": "673004"
+    },
+    "techStack": "Flutter & Mobile Apps",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Flutter",
+        "level": "Intermediate",
+        "rating": 7.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Dart",
+        "level": "Advanced",
+        "rating": 7.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Firebase",
+        "level": "Expert",
+        "rating": 8.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Hridya Mohammed",
+    "age": 22,
+    "address": {
+      "houseName": "Kiran Nivas",
+      "street": "Round North",
+      "place": "Swaraj Round",
+      "city": "Thrissur",
+      "district": "Thrissur",
+      "state": "Kerala",
+      "pincode": "680001"
+    },
+    "techStack": "DevOps & Cloud Engineering",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Docker",
+        "level": "Advanced",
+        "rating": 8.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kubernetes",
+        "level": "Expert",
+        "rating": 8.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "AWS Cloud",
+        "level": "Intermediate",
+        "rating": 8.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "CI/CD Pipelines",
+        "level": "Advanced",
+        "rating": 9.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Titus Varghese",
+    "age": 23,
+    "address": {
+      "houseName": "Sreerangam",
+      "street": "College Road",
+      "place": "Chalakudy",
+      "city": "Thrissur",
+      "district": "Thrissur",
+      "state": "Kerala",
+      "pincode": "680307"
+    },
+    "techStack": "Data Science & Machine Learning",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Expert",
+        "rating": 9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Pandas & NumPy",
+        "level": "Intermediate",
+        "rating": 9.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Machine Learning",
+        "level": "Advanced",
+        "rating": 7,
+        "maxRating": 10
+      },
+      {
+        "skill": "TensorFlow / PyTorch",
+        "level": "Expert",
+        "rating": 7.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Power BI",
+        "level": "Intermediate",
+        "rating": 7.6,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Shahana R.",
+    "age": 24,
+    "address": {
+      "houseName": "Souparnika",
+      "street": "Boat Jetty Road",
+      "place": "Mullakkal",
+      "city": "Alappuzha",
+      "district": "Alappuzha",
+      "state": "Kerala",
+      "pincode": "688011"
+    },
+    "techStack": "UI/UX & Product Design",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Figma",
+        "level": "Intermediate",
+        "rating": 7.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Wireframing & Prototyping",
+        "level": "Advanced",
+        "rating": 7.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Design Systems",
+        "level": "Expert",
+        "rating": 7.7,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Bibin Hameed",
+    "age": 25,
+    "address": {
+      "houseName": "Rose Villa",
+      "street": "National Highway",
+      "place": "Cherthala",
+      "city": "Alappuzha",
+      "district": "Alappuzha",
+      "state": "Kerala",
+      "pincode": "688524"
+    },
+    "techStack": "Cyber Security & Ethical Hacking",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "Network Security",
+        "level": "Advanced",
+        "rating": 7.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Penetration Testing",
+        "level": "Expert",
+        "rating": 8.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Kali Linux",
+        "level": "Intermediate",
+        "rating": 8.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "OWASP Top 10",
+        "level": "Advanced",
+        "rating": 8.7,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Sona Pillai",
+    "age": 26,
+    "address": {
+      "houseName": "Aiswarya",
+      "street": "Collectorate Road",
+      "place": "Kanjikuzhy",
+      "city": "Kottayam",
+      "district": "Kottayam",
+      "state": "Kerala",
+      "pincode": "686004"
+    },
+    "techStack": "Golang Backend & Microservices",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "Golang",
+        "level": "Expert",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "gRPC & Protobuf",
+        "level": "Intermediate",
+        "rating": 8.8,
+        "maxRating": 10
+      },
+      {
+        "skill": "PostgreSQL",
+        "level": "Advanced",
+        "rating": 9.1,
+        "maxRating": 10
+      },
+      {
+        "skill": "Docker",
+        "level": "Expert",
+        "rating": 9.4,
+        "maxRating": 10
+      },
+      {
+        "skill": "Redis",
+        "level": "Intermediate",
+        "rating": 7.1,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Vineeth Joy",
+    "age": 21,
+    "address": {
+      "houseName": "Sanctuary",
+      "street": "Main Road",
+      "place": "Pala",
+      "city": "Kottayam",
+      "district": "Kottayam",
+      "state": "Kerala",
+      "pincode": "686575"
+    },
+    "techStack": "Android Native Development",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Kotlin",
+        "level": "Intermediate",
+        "rating": 9.2,
+        "maxRating": 10
+      },
+      {
+        "skill": "Android SDK",
+        "level": "Advanced",
+        "rating": 9.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Jetpack Compose",
+        "level": "Expert",
+        "rating": 7.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Anjana George",
+    "age": 22,
+    "address": {
+      "houseName": "Hill View",
+      "street": "Fort Maidan Road",
+      "place": "Palakkad Town",
+      "city": "Palakkad",
+      "district": "Palakkad",
+      "state": "Kerala",
+      "pincode": "678001"
+    },
+    "techStack": "Software QA & Test Automation",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "Selenium WebDriver",
+        "level": "Advanced",
+        "rating": 7.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "Cypress",
+        "level": "Expert",
+        "rating": 7.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Playwright",
+        "level": "Intermediate",
+        "rating": 7.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Postman / API Testing",
+        "level": "Advanced",
+        "rating": 8.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Sharon Raj",
+    "age": 23,
+    "address": {
+      "houseName": "Sreevalsam",
+      "street": "Court Road",
+      "place": "Ottapalam",
+      "city": "Palakkad",
+      "district": "Palakkad",
+      "state": "Kerala",
+      "pincode": "679101"
+    },
+    "techStack": "MERN Stack",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Expert",
+        "rating": 8,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Intermediate",
+        "rating": 8.3,
+        "maxRating": 10
+      },
+      {
+        "skill": "React.js",
+        "level": "Advanced",
+        "rating": 8.6,
+        "maxRating": 10
+      },
+      {
+        "skill": "Node.js",
+        "level": "Expert",
+        "rating": 8.9,
+        "maxRating": 10
+      },
+      {
+        "skill": "JavaScript (ES6+)",
+        "level": "Intermediate",
+        "rating": 9.2,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Chitra Babu",
+    "age": 24,
+    "address": {
+      "houseName": "Sobha Enclave",
+      "street": "Down Hill Road",
+      "place": "Down Hill",
+      "city": "Malappuram",
+      "district": "Malappuram",
+      "state": "Kerala",
+      "pincode": "676505"
+    },
+    "techStack": "MEAN Stack",
+    "overallExperience": "Beginner to Intermediate",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Intermediate",
+        "rating": 8.7,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Advanced",
+        "rating": 9,
+        "maxRating": 10
+      },
+      {
+        "skill": "Angular",
+        "level": "Expert",
+        "rating": 9.3,
         "maxRating": 10
       }
     ]
