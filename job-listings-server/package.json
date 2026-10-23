@@ -1,0 +1,13 @@
+{
+  "name": "job-listings-server",
+  "version": "1.0.0",
+  "description": "Dummy REST API server for IT Job listings",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["dummy-server", "jobs", "rest-api", "fresher", "experienced"],
+  "author": "",
+  "license": "ISC"
+}

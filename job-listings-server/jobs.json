@@ -1,0 +1,1981 @@
+[
+  {
+    "id": 1,
+    "title": "Junior Frontend Developer",
+    "company": "Infosys",
+    "description": "Build responsive, accessible, and high-performance UI components using modern JavaScript and React. Work alongside UI designers and senior engineers.",
+    "stack": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React",
+      "Tailwind CSS"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kochi, Kerala (Infopark)",
+    "salary": "₹3.5 LPA - ₹4.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-21"
+  },
+  {
+    "id": 2,
+    "title": "Senior React / Next.js Developer",
+    "company": "TCS",
+    "description": "Architect scalable frontend web applications, optimize Web Vitals, implement server-side rendering, and mentor junior frontend engineers.",
+    "stack": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Redux Toolkit",
+      "GraphQL",
+      "Tailwind CSS"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-5 Years",
+    "location": "Thiruvananthapuram, Kerala (Technopark)",
+    "salary": "₹10 LPA - ₹16 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-20"
+  },
+  {
+    "id": 3,
+    "title": "Angular Developer",
+    "company": "Wipro",
+    "description": "Develop enterprise-grade single-page applications with Angular and RxJS, integrate backend REST APIs, and manage state architecture.",
+    "stack": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "NgRx",
+      "SCSS",
+      "Karma"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-4 Years",
+    "location": "Kozhikode, Kerala (Cyberpark)",
+    "salary": "₹7 LPA - ₹11 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-19"
+  },
+  {
+    "id": 4,
+    "title": "Vue.js / Frontend Trainee",
+    "company": "UST Global",
+    "description": "Entry-level frontend role focusing on Vue.js and modern component design. Fresh graduates with strong JavaScript basics are encouraged to apply.",
+    "stack": [
+      "Vue.js",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Vite",
+      "Pinia"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "salary": "₹3.2 LPA - ₹4.2 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-18"
+  },
+  {
+    "id": 5,
+    "title": "Backend Developer (Node.js)",
+    "company": "Cognizant",
+    "description": "Design and implement robust RESTful APIs and microservices. Handle database schema migrations, caching layers, and high-throughput background tasks.",
+    "stack": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "PostgreSQL",
+      "Docker",
+      "Redis"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-4 Years",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "salary": "₹7.5 LPA - ₹12 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-17"
+  },
+  {
+    "id": 6,
+    "title": "Junior Backend Engineer (Node.js)",
+    "company": "QBurst",
+    "description": "Collaborate with backend teams to develop server logic, maintain API routes, write unit tests, and integrate databases.",
+    "stack": [
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "MongoDB",
+      "Postman",
+      "Git"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Hyderabad, Telangana (Hybrid)",
+    "salary": "₹3.8 LPA - ₹5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-16"
+  },
+  {
+    "id": 7,
+    "title": "Python / Django Developer Trainee",
+    "company": "Experion Technologies",
+    "description": "Great starting point for freshers with good algorithmic skills and Python knowledge. You will build backend web services with Django.",
+    "stack": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "REST APIs",
+      "Git"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Chennai, Tamil Nadu (On-site)",
+    "salary": "₹3.6 LPA - ₹4.8 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-15"
+  },
+  {
+    "id": 8,
+    "title": "Senior FastAPI & Python Engineer",
+    "company": "IBS Software",
+    "description": "Develop asynchronous, high-concurrency microservices with FastAPI. Optimize database queries, manage task queues, and maintain containerized workloads.",
+    "stack": [
+      "Python",
+      "FastAPI",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "Celery",
+      "Docker",
+      "AWS"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "4-6 Years",
+    "location": "Pune, Maharashtra (Hybrid)",
+    "salary": "₹12 LPA - ₹18 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-14"
+  },
+  {
+    "id": 9,
+    "title": "Full Stack MERN Developer",
+    "company": "Innovature Labs",
+    "description": "Take full ownership of end-to-end features from database design and backend APIs to polished frontend components.",
+    "stack": [
+      "MongoDB",
+      "Express.js",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "AWS"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-5 Years",
+    "location": "Remote, India",
+    "salary": "₹9 LPA - ₹15 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-13"
+  },
+  {
+    "id": 10,
+    "title": "Associate Full Stack Trainee",
+    "company": "Accubits Technologies",
+    "description": "Ideal for fresh engineering graduates or bootcamp graduates with hands-on projects in the MERN stack.",
+    "stack": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "HTML5",
+      "CSS3"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kochi, Kerala (Hybrid)",
+    "salary": "₹3.5 LPA - ₹4.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-12"
+  },
+  {
+    "id": 11,
+    "title": "Trainee Software Engineer (Java)",
+    "company": "ThoughtWorks",
+    "description": "Entry-level position for software engineers with strong object-oriented programming fundamentals in Java and relational database concepts.",
+    "stack": [
+      "Java",
+      "Core Java",
+      "OOPs",
+      "MySQL",
+      "Spring Basics",
+      "Git"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kochi, Kerala (Infopark)",
+    "salary": "₹4 LPA - ₹5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-11"
+  },
+  {
+    "id": 12,
+    "title": "Senior Java Microservices Architect",
+    "company": "Zoho",
+    "description": "Lead the technical design and deployment of distributed, resilient microservices architectures using Spring Boot, Kafka, and Kubernetes.",
+    "stack": [
+      "Java 17",
+      "Spring Boot",
+      "Spring Cloud",
+      "Kafka",
+      "PostgreSQL",
+      "Kubernetes",
+      "AWS"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "5-8 Years",
+    "location": "Thiruvananthapuram, Kerala (Technopark)",
+    "salary": "₹16 LPA - ₹25 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-10"
+  },
+  {
+    "id": 13,
+    "title": "Junior Flutter App Developer",
+    "company": "Freshworks",
+    "description": "Develop cross-platform iOS and Android apps using Flutter. Freshers who have created app projects during their studies are welcome.",
+    "stack": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "REST APIs",
+      "Provider"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kozhikode, Kerala (Cyberpark)",
+    "salary": "₹3.6 LPA - ₹4.8 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-09"
+  },
+  {
+    "id": 14,
+    "title": "Lead Flutter Mobile Engineer",
+    "company": "Swiggy",
+    "description": "Architect complex mobile applications, establish clean state management architectures, integrate native SDKs, and publish to app stores.",
+    "stack": [
+      "Flutter",
+      "Dart",
+      "Bloc Architecture",
+      "CI/CD (Fastlane)",
+      "GraphQL",
+      "Native iOS/Android Bridge"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-6 Years",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "salary": "₹11 LPA - ₹17 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-08"
+  },
+  {
+    "id": 15,
+    "title": "React Native Developer",
+    "company": "Zerodha",
+    "description": "Create smooth and performant cross-platform mobile apps. Optimize rendering, handle device permissions, and maintain reusable UI widgets.",
+    "stack": [
+      "React Native",
+      "TypeScript",
+      "Redux",
+      "REST APIs",
+      "Jest"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-4 Years",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "salary": "₹8 LPA - ₹13 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-07"
+  },
+  {
+    "id": 16,
+    "title": "iOS App Developer (Swift)",
+    "company": "Razorpay",
+    "description": "Build native iOS applications adhering to Apple design guidelines. Implement smooth animations, network layers, and offline caching.",
+    "stack": [
+      "Swift",
+      "SwiftUI",
+      "UIKit",
+      "Combine",
+      "CoreData",
+      "Xcode"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-5 Years",
+    "location": "Hyderabad, Telangana (Hybrid)",
+    "salary": "₹10 LPA - ₹16 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-06"
+  },
+  {
+    "id": 17,
+    "title": "Android Developer Trainee (Kotlin)",
+    "company": "Flipkart",
+    "description": "Join our mobile team to learn and build modern Android applications using Kotlin and Jetpack Compose.",
+    "stack": [
+      "Kotlin",
+      "Android SDK",
+      "Jetpack Compose",
+      "Coroutines",
+      "Room Database"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Chennai, Tamil Nadu (On-site)",
+    "salary": "₹3.5 LPA - ₹4.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-05"
+  },
+  {
+    "id": 18,
+    "title": "Junior Cloud Support Associate",
+    "company": "Amazon",
+    "description": "Monitor cloud infrastructure, troubleshoot basic Linux server issues, manage access rights, and assist senior cloud administrators.",
+    "stack": [
+      "Linux",
+      "AWS Basics",
+      "Bash Scripting",
+      "Networking",
+      "Git"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Pune, Maharashtra (Hybrid)",
+    "salary": "₹3.5 LPA - ₹4.6 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-04"
+  },
+  {
+    "id": 19,
+    "title": "Senior DevOps & Platform Engineer",
+    "company": "Google",
+    "description": "Design and implement GitOps workflows, automated CI/CD pipelines, multi-cluster Kubernetes infrastructure, and observability tooling.",
+    "stack": [
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "GitHub Actions",
+      "Prometheus",
+      "Helm"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "4-7 Years",
+    "location": "Remote, India",
+    "salary": "₹14 LPA - ₹22 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-03"
+  },
+  {
+    "id": 20,
+    "title": "Azure Cloud Architect",
+    "company": "Microsoft",
+    "description": "Lead enterprise cloud migration to Microsoft Azure, ensuring security best practices, high availability, and cost efficiency.",
+    "stack": [
+      "Microsoft Azure",
+      "Terraform",
+      "Azure DevOps",
+      "Kubernetes (AKS)",
+      "ARM Templates"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "5-8 Years",
+    "location": "Kochi, Kerala (Hybrid)",
+    "salary": "₹18 LPA - ₹26 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-02"
+  },
+  {
+    "id": 21,
+    "title": "Junior QA Manual & Automation Tester",
+    "company": "Cisco",
+    "description": "Participate in test case creation, defect reporting, manual smoke/regression testing, and learn test automation frameworks.",
+    "stack": [
+      "Manual Testing",
+      "Selenium",
+      "Java",
+      "TestNG",
+      "Postman",
+      "Jira"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kochi, Kerala (Infopark)",
+    "salary": "₹3.2 LPA - ₹4.2 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-01"
+  },
+  {
+    "id": 22,
+    "title": "Senior QA Automation Engineer (Cypress / Playwright)",
+    "company": "Oracle",
+    "description": "Build modern end-to-end automated test suites for web and API platforms. Integrate tests into deployment pipelines for continuous feedback.",
+    "stack": [
+      "Cypress",
+      "Playwright",
+      "TypeScript",
+      "CI/CD",
+      "Postman",
+      "API Automation"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-6 Years",
+    "location": "Thiruvananthapuram, Kerala (Technopark)",
+    "salary": "₹8.5 LPA - ₹14 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-30"
+  },
+  {
+    "id": 23,
+    "title": "Junior Data Analyst",
+    "company": "IBM",
+    "description": "Analyze business metrics, build interactive dashboards, query SQL databases, and prepare executive summary reports.",
+    "stack": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Power BI",
+      "Excel",
+      "Tableau"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kozhikode, Kerala (Cyberpark)",
+    "salary": "₹4 LPA - ₹5.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-29"
+  },
+  {
+    "id": 24,
+    "title": "Machine Learning Engineer",
+    "company": "Capgemini",
+    "description": "Train, fine-tune, and deploy predictive ML models and NLP systems into production. Manage dataset pipelines and model monitoring.",
+    "stack": [
+      "Python",
+      "PyTorch",
+      "Scikit-Learn",
+      "FastAPI",
+      "Docker",
+      "MLflow",
+      "HuggingFace"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-5 Years",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "salary": "₹12 LPA - ₹20 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-28"
+  },
+  {
+    "id": 25,
+    "title": "Generative AI & LLM Specialist",
+    "company": "LTIMindtree",
+    "description": "Build Retrieval-Augmented Generation (RAG) pipelines, agentic workflows, and customized enterprise LLM search systems.",
+    "stack": [
+      "Python",
+      "LangChain",
+      "LlamaIndex",
+      "OpenAI APIs",
+      "Vector DBs (Pinecone/Chroma)",
+      "RAG"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-5 Years",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "salary": "₹15 LPA - ₹24 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-27"
+  },
+  {
+    "id": 26,
+    "title": "Associate AI / ML Intern",
+    "company": "HCLTech",
+    "description": "Entry-level position for graduates excited about data science and artificial intelligence. Assist in data cleaning, EDA, and model testing.",
+    "stack": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Math/Statistics",
+      "Machine Learning Basics",
+      "Jupyter"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Hyderabad, Telangana (Hybrid)",
+    "salary": "₹3.8 LPA - ₹5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-26"
+  },
+  {
+    "id": 27,
+    "title": "Junior SOC Analyst",
+    "company": "Tech Mahindra",
+    "description": "Monitor security event logs, analyze suspicious alerts, triage potential incidents, and verify network compliance.",
+    "stack": [
+      "SIEM (Splunk)",
+      "Wireshark",
+      "Network Security",
+      "Linux",
+      "Incident Response"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Chennai, Tamil Nadu (On-site)",
+    "salary": "₹3.6 LPA - ₹4.8 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-25"
+  },
+  {
+    "id": 28,
+    "title": "Cybersecurity Specialist & Penetration Tester",
+    "company": "CareStack",
+    "description": "Perform ethical hacking, vulnerability assessments, and penetration testing on web apps, mobile apps, and cloud infrastructure.",
+    "stack": [
+      "Burp Suite",
+      "Metasploit",
+      "OWASP Top 10",
+      "Network Penetration Testing",
+      "Python",
+      "Kali Linux"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-6 Years",
+    "location": "Pune, Maharashtra (Hybrid)",
+    "salary": "₹11 LPA - ₹18 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-22"
+  },
+  {
+    "id": 29,
+    "title": "Golang Backend Developer",
+    "company": "SurveySparrow",
+    "description": "Build ultra-fast, concurrent backend services in Go with gRPC communication and robust error handling.",
+    "stack": [
+      "Go (Golang)",
+      "gRPC",
+      "Protobuf",
+      "PostgreSQL",
+      "Docker",
+      "Microservices"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-5 Years",
+    "location": "Remote, India",
+    "salary": "₹11 LPA - ₹17 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-21"
+  },
+  {
+    "id": 30,
+    "title": "Junior UI/UX Designer & Web Trainee",
+    "company": "Neoito",
+    "description": "Design wireframes, modern user interfaces, conduct user research, and assist in converting design prototypes into code.",
+    "stack": [
+      "Figma",
+      "Adobe XD",
+      "Wireframing",
+      "Prototyping",
+      "HTML/CSS Basics"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kochi, Kerala (Hybrid)",
+    "salary": "₹3.2 LPA - ₹4.4 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-20"
+  },
+  {
+    "id": 31,
+    "title": "Senior Product Designer (UI/UX)",
+    "company": "Flytxt",
+    "description": "Drive the end-to-end design strategy for SaaS enterprise software. Build comprehensive design systems and mentor designers.",
+    "stack": [
+      "Figma",
+      "Design Systems",
+      "User Research",
+      "Usability Testing",
+      "Interaction Design"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "4-7 Years",
+    "location": "Kochi, Kerala (Infopark)",
+    "salary": "₹12 LPA - ₹18 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-19"
+  },
+  {
+    "id": 32,
+    "title": "Database Administrator (PostgreSQL / MySQL)",
+    "company": "Nissan Digital Hub",
+    "description": "Ensure high availability, tuning, disaster recovery, and query performance across production database clusters.",
+    "stack": [
+      "PostgreSQL",
+      "MySQL",
+      "Query Optimization",
+      "Replication",
+      "High Availability",
+      "Backup & Recovery"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-6 Years",
+    "location": "Thiruvananthapuram, Kerala (Technopark)",
+    "salary": "₹9 LPA - ₹15 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-18"
+  },
+  {
+    "id": 33,
+    "title": "Junior SQL & Database Support Trainee",
+    "company": "EY Global Delivery Services",
+    "description": "Execute database migration scripts, write ad-hoc analytical queries, and maintain data integrity.",
+    "stack": [
+      "SQL",
+      "Relational Databases",
+      "Data Normalization",
+      "Stored Procedures",
+      "Linux"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kozhikode, Kerala (Cyberpark)",
+    "salary": "₹3.2 LPA - ₹4 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-17"
+  },
+  {
+    "id": 34,
+    "title": "Embedded Software Trainee",
+    "company": "Allianz Technology",
+    "description": "Work on firmware development for IoT devices, microcontrollers, sensor interfacing, and hardware debugging.",
+    "stack": [
+      "C",
+      "Embedded C",
+      "Microcontrollers (STM32/ESP32)",
+      "RTOS",
+      "UART/SPI/I2C"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "salary": "₹3.5 LPA - ₹4.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-16"
+  },
+  {
+    "id": 35,
+    "title": "Senior Embedded Linux & IoT Engineer",
+    "company": "Tata Elxsi",
+    "description": "Develop board support packages (BSP), custom Linux kernel modules, and secure IoT telemetry systems.",
+    "stack": [
+      "Embedded Linux",
+      "Yocto",
+      "C++",
+      "Device Drivers",
+      "MQTT",
+      "BLE/WiFi"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "4-7 Years",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "salary": "₹12 LPA - ₹19 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-15"
+  },
+  {
+    "id": 36,
+    "title": "Junior Frontend Developer (Hyderabad)",
+    "company": "Infosys",
+    "description": "Build responsive, accessible, and high-performance UI components using modern JavaScript and React. Work alongside UI designers and senior engineers.",
+    "stack": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React",
+      "Tailwind CSS"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Hyderabad, Telangana (Hybrid)",
+    "salary": "₹3.5 LPA - ₹4.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-14"
+  },
+  {
+    "id": 37,
+    "title": "Senior React / Next.js Developer (Chennai)",
+    "company": "TCS",
+    "description": "Architect scalable frontend web applications, optimize Web Vitals, implement server-side rendering, and mentor junior frontend engineers.",
+    "stack": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Redux Toolkit",
+      "GraphQL",
+      "Tailwind CSS"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-5 Years",
+    "location": "Chennai, Tamil Nadu (On-site)",
+    "salary": "₹10 LPA - ₹16 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-13"
+  },
+  {
+    "id": 38,
+    "title": "Angular Developer (Pune)",
+    "company": "Wipro",
+    "description": "Develop enterprise-grade single-page applications with Angular and RxJS, integrate backend REST APIs, and manage state architecture.",
+    "stack": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "NgRx",
+      "SCSS",
+      "Karma"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-4 Years",
+    "location": "Pune, Maharashtra (Hybrid)",
+    "salary": "₹7 LPA - ₹11 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-12"
+  },
+  {
+    "id": 39,
+    "title": "Vue.js / Frontend Trainee (Remote)",
+    "company": "UST Global",
+    "description": "Entry-level frontend role focusing on Vue.js and modern component design. Fresh graduates with strong JavaScript basics are encouraged to apply.",
+    "stack": [
+      "Vue.js",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Vite",
+      "Pinia"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Remote, India",
+    "salary": "₹3.2 LPA - ₹4.2 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-11"
+  },
+  {
+    "id": 40,
+    "title": "Backend Developer (Node.js) (Kochi)",
+    "company": "Cognizant",
+    "description": "Design and implement robust RESTful APIs and microservices. Handle database schema migrations, caching layers, and high-throughput background tasks.",
+    "stack": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "PostgreSQL",
+      "Docker",
+      "Redis"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-4 Years",
+    "location": "Kochi, Kerala (Hybrid)",
+    "salary": "₹7.5 LPA - ₹12 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-10"
+  },
+  {
+    "id": 41,
+    "title": "Junior Backend Engineer (Node.js) (Kochi)",
+    "company": "QBurst",
+    "description": "Collaborate with backend teams to develop server logic, maintain API routes, write unit tests, and integrate databases.",
+    "stack": [
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "MongoDB",
+      "Postman",
+      "Git"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kochi, Kerala (Infopark)",
+    "salary": "₹3.8 LPA - ₹5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-09"
+  },
+  {
+    "id": 42,
+    "title": "Python / Django Developer Trainee (Thiruvananthapuram)",
+    "company": "Experion Technologies",
+    "description": "Great starting point for freshers with good algorithmic skills and Python knowledge. You will build backend web services with Django.",
+    "stack": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "REST APIs",
+      "Git"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Thiruvananthapuram, Kerala (Technopark)",
+    "salary": "₹3.6 LPA - ₹4.8 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-08"
+  },
+  {
+    "id": 43,
+    "title": "Senior FastAPI & Python Engineer (Kozhikode)",
+    "company": "IBS Software",
+    "description": "Develop asynchronous, high-concurrency microservices with FastAPI. Optimize database queries, manage task queues, and maintain containerized workloads.",
+    "stack": [
+      "Python",
+      "FastAPI",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "Celery",
+      "Docker",
+      "AWS"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "4-6 Years",
+    "location": "Kozhikode, Kerala (Cyberpark)",
+    "salary": "₹12 LPA - ₹18 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-07"
+  },
+  {
+    "id": 44,
+    "title": "Full Stack MERN Developer (Bengaluru)",
+    "company": "Innovature Labs",
+    "description": "Take full ownership of end-to-end features from database design and backend APIs to polished frontend components.",
+    "stack": [
+      "MongoDB",
+      "Express.js",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "AWS"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-5 Years",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "salary": "₹9 LPA - ₹15 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-06"
+  },
+  {
+    "id": 45,
+    "title": "Associate Full Stack Trainee (Bengaluru)",
+    "company": "Accubits Technologies",
+    "description": "Ideal for fresh engineering graduates or bootcamp graduates with hands-on projects in the MERN stack.",
+    "stack": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "HTML5",
+      "CSS3"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "salary": "₹3.5 LPA - ₹4.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-05"
+  },
+  {
+    "id": 46,
+    "title": "Trainee Software Engineer (Java) (Hyderabad)",
+    "company": "ThoughtWorks",
+    "description": "Entry-level position for software engineers with strong object-oriented programming fundamentals in Java and relational database concepts.",
+    "stack": [
+      "Java",
+      "Core Java",
+      "OOPs",
+      "MySQL",
+      "Spring Basics",
+      "Git"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Hyderabad, Telangana (Hybrid)",
+    "salary": "₹4 LPA - ₹5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-04"
+  },
+  {
+    "id": 47,
+    "title": "Senior Java Microservices Architect (Chennai)",
+    "company": "Zoho",
+    "description": "Lead the technical design and deployment of distributed, resilient microservices architectures using Spring Boot, Kafka, and Kubernetes.",
+    "stack": [
+      "Java 17",
+      "Spring Boot",
+      "Spring Cloud",
+      "Kafka",
+      "PostgreSQL",
+      "Kubernetes",
+      "AWS"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "5-8 Years",
+    "location": "Chennai, Tamil Nadu (On-site)",
+    "salary": "₹16 LPA - ₹25 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-03"
+  },
+  {
+    "id": 48,
+    "title": "Junior Flutter App Developer (Pune)",
+    "company": "Freshworks",
+    "description": "Develop cross-platform iOS and Android apps using Flutter. Freshers who have created app projects during their studies are welcome.",
+    "stack": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "REST APIs",
+      "Provider"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Pune, Maharashtra (Hybrid)",
+    "salary": "₹3.6 LPA - ₹4.8 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-02"
+  },
+  {
+    "id": 49,
+    "title": "Lead Flutter Mobile Engineer (Remote)",
+    "company": "Swiggy",
+    "description": "Architect complex mobile applications, establish clean state management architectures, integrate native SDKs, and publish to app stores.",
+    "stack": [
+      "Flutter",
+      "Dart",
+      "Bloc Architecture",
+      "CI/CD (Fastlane)",
+      "GraphQL",
+      "Native iOS/Android Bridge"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-6 Years",
+    "location": "Remote, India",
+    "salary": "₹11 LPA - ₹17 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-01"
+  },
+  {
+    "id": 50,
+    "title": "React Native Developer (Kochi)",
+    "company": "Zerodha",
+    "description": "Create smooth and performant cross-platform mobile apps. Optimize rendering, handle device permissions, and maintain reusable UI widgets.",
+    "stack": [
+      "React Native",
+      "TypeScript",
+      "Redux",
+      "REST APIs",
+      "Jest"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-4 Years",
+    "location": "Kochi, Kerala (Hybrid)",
+    "salary": "₹8 LPA - ₹13 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-30"
+  },
+  {
+    "id": 51,
+    "title": "iOS App Developer (Swift) (Kochi)",
+    "company": "Razorpay",
+    "description": "Build native iOS applications adhering to Apple design guidelines. Implement smooth animations, network layers, and offline caching.",
+    "stack": [
+      "Swift",
+      "SwiftUI",
+      "UIKit",
+      "Combine",
+      "CoreData",
+      "Xcode"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-5 Years",
+    "location": "Kochi, Kerala (Infopark)",
+    "salary": "₹10 LPA - ₹16 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-29"
+  },
+  {
+    "id": 52,
+    "title": "Android Developer Trainee (Kotlin) (Thiruvananthapuram)",
+    "company": "Flipkart",
+    "description": "Join our mobile team to learn and build modern Android applications using Kotlin and Jetpack Compose.",
+    "stack": [
+      "Kotlin",
+      "Android SDK",
+      "Jetpack Compose",
+      "Coroutines",
+      "Room Database"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Thiruvananthapuram, Kerala (Technopark)",
+    "salary": "₹3.5 LPA - ₹4.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-28"
+  },
+  {
+    "id": 53,
+    "title": "Junior Cloud Support Associate (Kozhikode)",
+    "company": "Amazon",
+    "description": "Monitor cloud infrastructure, troubleshoot basic Linux server issues, manage access rights, and assist senior cloud administrators.",
+    "stack": [
+      "Linux",
+      "AWS Basics",
+      "Bash Scripting",
+      "Networking",
+      "Git"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kozhikode, Kerala (Cyberpark)",
+    "salary": "₹3.5 LPA - ₹4.6 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-27"
+  },
+  {
+    "id": 54,
+    "title": "Senior DevOps & Platform Engineer (Bengaluru)",
+    "company": "Google",
+    "description": "Design and implement GitOps workflows, automated CI/CD pipelines, multi-cluster Kubernetes infrastructure, and observability tooling.",
+    "stack": [
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "GitHub Actions",
+      "Prometheus",
+      "Helm"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "4-7 Years",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "salary": "₹14 LPA - ₹22 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-26"
+  },
+  {
+    "id": 55,
+    "title": "Azure Cloud Architect (Bengaluru)",
+    "company": "Microsoft",
+    "description": "Lead enterprise cloud migration to Microsoft Azure, ensuring security best practices, high availability, and cost efficiency.",
+    "stack": [
+      "Microsoft Azure",
+      "Terraform",
+      "Azure DevOps",
+      "Kubernetes (AKS)",
+      "ARM Templates"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "5-8 Years",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "salary": "₹18 LPA - ₹26 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-25"
+  },
+  {
+    "id": 56,
+    "title": "Junior QA Manual & Automation Tester (Hyderabad)",
+    "company": "Cisco",
+    "description": "Participate in test case creation, defect reporting, manual smoke/regression testing, and learn test automation frameworks.",
+    "stack": [
+      "Manual Testing",
+      "Selenium",
+      "Java",
+      "TestNG",
+      "Postman",
+      "Jira"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Hyderabad, Telangana (Hybrid)",
+    "salary": "₹3.2 LPA - ₹4.2 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-22"
+  },
+  {
+    "id": 57,
+    "title": "Senior QA Automation Engineer (Cypress / Playwright) (Chennai)",
+    "company": "Oracle",
+    "description": "Build modern end-to-end automated test suites for web and API platforms. Integrate tests into deployment pipelines for continuous feedback.",
+    "stack": [
+      "Cypress",
+      "Playwright",
+      "TypeScript",
+      "CI/CD",
+      "Postman",
+      "API Automation"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-6 Years",
+    "location": "Chennai, Tamil Nadu (On-site)",
+    "salary": "₹8.5 LPA - ₹14 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-21"
+  },
+  {
+    "id": 58,
+    "title": "Junior Data Analyst (Pune)",
+    "company": "IBM",
+    "description": "Analyze business metrics, build interactive dashboards, query SQL databases, and prepare executive summary reports.",
+    "stack": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Power BI",
+      "Excel",
+      "Tableau"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Pune, Maharashtra (Hybrid)",
+    "salary": "₹4 LPA - ₹5.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-20"
+  },
+  {
+    "id": 59,
+    "title": "Machine Learning Engineer (Remote)",
+    "company": "Capgemini",
+    "description": "Train, fine-tune, and deploy predictive ML models and NLP systems into production. Manage dataset pipelines and model monitoring.",
+    "stack": [
+      "Python",
+      "PyTorch",
+      "Scikit-Learn",
+      "FastAPI",
+      "Docker",
+      "MLflow",
+      "HuggingFace"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-5 Years",
+    "location": "Remote, India",
+    "salary": "₹12 LPA - ₹20 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-19"
+  },
+  {
+    "id": 60,
+    "title": "Generative AI & LLM Specialist (Kochi)",
+    "company": "LTIMindtree",
+    "description": "Build Retrieval-Augmented Generation (RAG) pipelines, agentic workflows, and customized enterprise LLM search systems.",
+    "stack": [
+      "Python",
+      "LangChain",
+      "LlamaIndex",
+      "OpenAI APIs",
+      "Vector DBs (Pinecone/Chroma)",
+      "RAG"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-5 Years",
+    "location": "Kochi, Kerala (Hybrid)",
+    "salary": "₹15 LPA - ₹24 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-18"
+  },
+  {
+    "id": 61,
+    "title": "Associate AI / ML Intern (Kochi)",
+    "company": "HCLTech",
+    "description": "Entry-level position for graduates excited about data science and artificial intelligence. Assist in data cleaning, EDA, and model testing.",
+    "stack": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Math/Statistics",
+      "Machine Learning Basics",
+      "Jupyter"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kochi, Kerala (Infopark)",
+    "salary": "₹3.8 LPA - ₹5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-17"
+  },
+  {
+    "id": 62,
+    "title": "Junior SOC Analyst (Thiruvananthapuram)",
+    "company": "Tech Mahindra",
+    "description": "Monitor security event logs, analyze suspicious alerts, triage potential incidents, and verify network compliance.",
+    "stack": [
+      "SIEM (Splunk)",
+      "Wireshark",
+      "Network Security",
+      "Linux",
+      "Incident Response"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Thiruvananthapuram, Kerala (Technopark)",
+    "salary": "₹3.6 LPA - ₹4.8 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-16"
+  },
+  {
+    "id": 63,
+    "title": "Cybersecurity Specialist & Penetration Tester (Kozhikode)",
+    "company": "CareStack",
+    "description": "Perform ethical hacking, vulnerability assessments, and penetration testing on web apps, mobile apps, and cloud infrastructure.",
+    "stack": [
+      "Burp Suite",
+      "Metasploit",
+      "OWASP Top 10",
+      "Network Penetration Testing",
+      "Python",
+      "Kali Linux"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-6 Years",
+    "location": "Kozhikode, Kerala (Cyberpark)",
+    "salary": "₹11 LPA - ₹18 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-15"
+  },
+  {
+    "id": 64,
+    "title": "Golang Backend Developer (Bengaluru)",
+    "company": "SurveySparrow",
+    "description": "Build ultra-fast, concurrent backend services in Go with gRPC communication and robust error handling.",
+    "stack": [
+      "Go (Golang)",
+      "gRPC",
+      "Protobuf",
+      "PostgreSQL",
+      "Docker",
+      "Microservices"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-5 Years",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "salary": "₹11 LPA - ₹17 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-14"
+  },
+  {
+    "id": 65,
+    "title": "Junior UI/UX Designer & Web Trainee (Bengaluru)",
+    "company": "Neoito",
+    "description": "Design wireframes, modern user interfaces, conduct user research, and assist in converting design prototypes into code.",
+    "stack": [
+      "Figma",
+      "Adobe XD",
+      "Wireframing",
+      "Prototyping",
+      "HTML/CSS Basics"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "salary": "₹3.2 LPA - ₹4.4 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-13"
+  },
+  {
+    "id": 66,
+    "title": "Senior Product Designer (UI/UX) (Hyderabad)",
+    "company": "Flytxt",
+    "description": "Drive the end-to-end design strategy for SaaS enterprise software. Build comprehensive design systems and mentor designers.",
+    "stack": [
+      "Figma",
+      "Design Systems",
+      "User Research",
+      "Usability Testing",
+      "Interaction Design"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "4-7 Years",
+    "location": "Hyderabad, Telangana (Hybrid)",
+    "salary": "₹12 LPA - ₹18 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-12"
+  },
+  {
+    "id": 67,
+    "title": "Database Administrator (PostgreSQL / MySQL) (Chennai)",
+    "company": "Nissan Digital Hub",
+    "description": "Ensure high availability, tuning, disaster recovery, and query performance across production database clusters.",
+    "stack": [
+      "PostgreSQL",
+      "MySQL",
+      "Query Optimization",
+      "Replication",
+      "High Availability",
+      "Backup & Recovery"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-6 Years",
+    "location": "Chennai, Tamil Nadu (On-site)",
+    "salary": "₹9 LPA - ₹15 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-11"
+  },
+  {
+    "id": 68,
+    "title": "Junior SQL & Database Support Trainee (Pune)",
+    "company": "EY Global Delivery Services",
+    "description": "Execute database migration scripts, write ad-hoc analytical queries, and maintain data integrity.",
+    "stack": [
+      "SQL",
+      "Relational Databases",
+      "Data Normalization",
+      "Stored Procedures",
+      "Linux"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Pune, Maharashtra (Hybrid)",
+    "salary": "₹3.2 LPA - ₹4 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-10"
+  },
+  {
+    "id": 69,
+    "title": "Embedded Software Trainee (Remote)",
+    "company": "Allianz Technology",
+    "description": "Work on firmware development for IoT devices, microcontrollers, sensor interfacing, and hardware debugging.",
+    "stack": [
+      "C",
+      "Embedded C",
+      "Microcontrollers (STM32/ESP32)",
+      "RTOS",
+      "UART/SPI/I2C"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Remote, India",
+    "salary": "₹3.5 LPA - ₹4.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-09"
+  },
+  {
+    "id": 70,
+    "title": "Senior Embedded Linux & IoT Engineer (Kochi)",
+    "company": "Tata Elxsi",
+    "description": "Develop board support packages (BSP), custom Linux kernel modules, and secure IoT telemetry systems.",
+    "stack": [
+      "Embedded Linux",
+      "Yocto",
+      "C++",
+      "Device Drivers",
+      "MQTT",
+      "BLE/WiFi"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "4-7 Years",
+    "location": "Kochi, Kerala (Hybrid)",
+    "salary": "₹12 LPA - ₹19 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-08"
+  },
+  {
+    "id": 71,
+    "title": "Urgent: Junior Frontend Developer",
+    "company": "Infosys",
+    "description": "Build responsive, accessible, and high-performance UI components using modern JavaScript and React. Work alongside UI designers and senior engineers.",
+    "stack": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React",
+      "Tailwind CSS"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kochi, Kerala (Infopark)",
+    "salary": "₹3.5 LPA - ₹4.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-07"
+  },
+  {
+    "id": 72,
+    "title": "Urgent: Senior React / Next.js Developer",
+    "company": "TCS",
+    "description": "Architect scalable frontend web applications, optimize Web Vitals, implement server-side rendering, and mentor junior frontend engineers.",
+    "stack": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Redux Toolkit",
+      "GraphQL",
+      "Tailwind CSS"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-5 Years",
+    "location": "Thiruvananthapuram, Kerala (Technopark)",
+    "salary": "₹10 LPA - ₹16 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-06"
+  },
+  {
+    "id": 73,
+    "title": "Urgent: Angular Developer",
+    "company": "Wipro",
+    "description": "Develop enterprise-grade single-page applications with Angular and RxJS, integrate backend REST APIs, and manage state architecture.",
+    "stack": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "NgRx",
+      "SCSS",
+      "Karma"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-4 Years",
+    "location": "Kozhikode, Kerala (Cyberpark)",
+    "salary": "₹7 LPA - ₹11 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-05"
+  },
+  {
+    "id": 74,
+    "title": "Urgent: Vue.js / Frontend Trainee",
+    "company": "UST Global",
+    "description": "Entry-level frontend role focusing on Vue.js and modern component design. Fresh graduates with strong JavaScript basics are encouraged to apply.",
+    "stack": [
+      "Vue.js",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Vite",
+      "Pinia"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "salary": "₹3.2 LPA - ₹4.2 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-04"
+  },
+  {
+    "id": 75,
+    "title": "Urgent: Backend Developer (Node.js)",
+    "company": "Cognizant",
+    "description": "Design and implement robust RESTful APIs and microservices. Handle database schema migrations, caching layers, and high-throughput background tasks.",
+    "stack": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "PostgreSQL",
+      "Docker",
+      "Redis"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-4 Years",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "salary": "₹7.5 LPA - ₹12 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-03"
+  },
+  {
+    "id": 76,
+    "title": "Urgent: Junior Backend Engineer (Node.js)",
+    "company": "QBurst",
+    "description": "Collaborate with backend teams to develop server logic, maintain API routes, write unit tests, and integrate databases.",
+    "stack": [
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "MongoDB",
+      "Postman",
+      "Git"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Hyderabad, Telangana (Hybrid)",
+    "salary": "₹3.8 LPA - ₹5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-02"
+  },
+  {
+    "id": 77,
+    "title": "Urgent: Python / Django Developer Trainee",
+    "company": "Experion Technologies",
+    "description": "Great starting point for freshers with good algorithmic skills and Python knowledge. You will build backend web services with Django.",
+    "stack": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "REST APIs",
+      "Git"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Chennai, Tamil Nadu (On-site)",
+    "salary": "₹3.6 LPA - ₹4.8 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-01"
+  },
+  {
+    "id": 78,
+    "title": "Urgent: Senior FastAPI & Python Engineer",
+    "company": "IBS Software",
+    "description": "Develop asynchronous, high-concurrency microservices with FastAPI. Optimize database queries, manage task queues, and maintain containerized workloads.",
+    "stack": [
+      "Python",
+      "FastAPI",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "Celery",
+      "Docker",
+      "AWS"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "4-6 Years",
+    "location": "Pune, Maharashtra (Hybrid)",
+    "salary": "₹12 LPA - ₹18 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-30"
+  },
+  {
+    "id": 79,
+    "title": "Urgent: Full Stack MERN Developer",
+    "company": "Innovature Labs",
+    "description": "Take full ownership of end-to-end features from database design and backend APIs to polished frontend components.",
+    "stack": [
+      "MongoDB",
+      "Express.js",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "AWS"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-5 Years",
+    "location": "Remote, India",
+    "salary": "₹9 LPA - ₹15 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-29"
+  },
+  {
+    "id": 80,
+    "title": "Urgent: Associate Full Stack Trainee",
+    "company": "Accubits Technologies",
+    "description": "Ideal for fresh engineering graduates or bootcamp graduates with hands-on projects in the MERN stack.",
+    "stack": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "HTML5",
+      "CSS3"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kochi, Kerala (Hybrid)",
+    "salary": "₹3.5 LPA - ₹4.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-28"
+  },
+  {
+    "id": 81,
+    "title": "Urgent: Trainee Software Engineer (Java)",
+    "company": "ThoughtWorks",
+    "description": "Entry-level position for software engineers with strong object-oriented programming fundamentals in Java and relational database concepts.",
+    "stack": [
+      "Java",
+      "Core Java",
+      "OOPs",
+      "MySQL",
+      "Spring Basics",
+      "Git"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kochi, Kerala (Infopark)",
+    "salary": "₹4 LPA - ₹5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-27"
+  },
+  {
+    "id": 82,
+    "title": "Urgent: Senior Java Microservices Architect",
+    "company": "Zoho",
+    "description": "Lead the technical design and deployment of distributed, resilient microservices architectures using Spring Boot, Kafka, and Kubernetes.",
+    "stack": [
+      "Java 17",
+      "Spring Boot",
+      "Spring Cloud",
+      "Kafka",
+      "PostgreSQL",
+      "Kubernetes",
+      "AWS"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "5-8 Years",
+    "location": "Thiruvananthapuram, Kerala (Technopark)",
+    "salary": "₹16 LPA - ₹25 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-26"
+  },
+  {
+    "id": 83,
+    "title": "Urgent: Junior Flutter App Developer",
+    "company": "Freshworks",
+    "description": "Develop cross-platform iOS and Android apps using Flutter. Freshers who have created app projects during their studies are welcome.",
+    "stack": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "REST APIs",
+      "Provider"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kozhikode, Kerala (Cyberpark)",
+    "salary": "₹3.6 LPA - ₹4.8 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-09-25"
+  },
+  {
+    "id": 84,
+    "title": "Urgent: Lead Flutter Mobile Engineer",
+    "company": "Swiggy",
+    "description": "Architect complex mobile applications, establish clean state management architectures, integrate native SDKs, and publish to app stores.",
+    "stack": [
+      "Flutter",
+      "Dart",
+      "Bloc Architecture",
+      "CI/CD (Fastlane)",
+      "GraphQL",
+      "Native iOS/Android Bridge"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-6 Years",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "salary": "₹11 LPA - ₹17 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-22"
+  },
+  {
+    "id": 85,
+    "title": "Urgent: React Native Developer",
+    "company": "Zerodha",
+    "description": "Create smooth and performant cross-platform mobile apps. Optimize rendering, handle device permissions, and maintain reusable UI widgets.",
+    "stack": [
+      "React Native",
+      "TypeScript",
+      "Redux",
+      "REST APIs",
+      "Jest"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-4 Years",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "salary": "₹8 LPA - ₹13 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-21"
+  },
+  {
+    "id": 86,
+    "title": "Urgent: iOS App Developer (Swift)",
+    "company": "Razorpay",
+    "description": "Build native iOS applications adhering to Apple design guidelines. Implement smooth animations, network layers, and offline caching.",
+    "stack": [
+      "Swift",
+      "SwiftUI",
+      "UIKit",
+      "Combine",
+      "CoreData",
+      "Xcode"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-5 Years",
+    "location": "Hyderabad, Telangana (Hybrid)",
+    "salary": "₹10 LPA - ₹16 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-20"
+  },
+  {
+    "id": 87,
+    "title": "Urgent: Android Developer Trainee (Kotlin)",
+    "company": "Flipkart",
+    "description": "Join our mobile team to learn and build modern Android applications using Kotlin and Jetpack Compose.",
+    "stack": [
+      "Kotlin",
+      "Android SDK",
+      "Jetpack Compose",
+      "Coroutines",
+      "Room Database"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Chennai, Tamil Nadu (On-site)",
+    "salary": "₹3.5 LPA - ₹4.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-19"
+  },
+  {
+    "id": 88,
+    "title": "Urgent: Junior Cloud Support Associate",
+    "company": "Amazon",
+    "description": "Monitor cloud infrastructure, troubleshoot basic Linux server issues, manage access rights, and assist senior cloud administrators.",
+    "stack": [
+      "Linux",
+      "AWS Basics",
+      "Bash Scripting",
+      "Networking",
+      "Git"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Pune, Maharashtra (Hybrid)",
+    "salary": "₹3.5 LPA - ₹4.6 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-18"
+  },
+  {
+    "id": 89,
+    "title": "Urgent: Senior DevOps & Platform Engineer",
+    "company": "Google",
+    "description": "Design and implement GitOps workflows, automated CI/CD pipelines, multi-cluster Kubernetes infrastructure, and observability tooling.",
+    "stack": [
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "GitHub Actions",
+      "Prometheus",
+      "Helm"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "4-7 Years",
+    "location": "Remote, India",
+    "salary": "₹14 LPA - ₹22 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-17"
+  },
+  {
+    "id": 90,
+    "title": "Urgent: Azure Cloud Architect",
+    "company": "Microsoft",
+    "description": "Lead enterprise cloud migration to Microsoft Azure, ensuring security best practices, high availability, and cost efficiency.",
+    "stack": [
+      "Microsoft Azure",
+      "Terraform",
+      "Azure DevOps",
+      "Kubernetes (AKS)",
+      "ARM Templates"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "5-8 Years",
+    "location": "Kochi, Kerala (Hybrid)",
+    "salary": "₹18 LPA - ₹26 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-16"
+  },
+  {
+    "id": 91,
+    "title": "Urgent: Junior QA Manual & Automation Tester",
+    "company": "Cisco",
+    "description": "Participate in test case creation, defect reporting, manual smoke/regression testing, and learn test automation frameworks.",
+    "stack": [
+      "Manual Testing",
+      "Selenium",
+      "Java",
+      "TestNG",
+      "Postman",
+      "Jira"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kochi, Kerala (Infopark)",
+    "salary": "₹3.2 LPA - ₹4.2 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-15"
+  },
+  {
+    "id": 92,
+    "title": "Urgent: Senior QA Automation Engineer (Cypress / Playwright)",
+    "company": "Oracle",
+    "description": "Build modern end-to-end automated test suites for web and API platforms. Integrate tests into deployment pipelines for continuous feedback.",
+    "stack": [
+      "Cypress",
+      "Playwright",
+      "TypeScript",
+      "CI/CD",
+      "Postman",
+      "API Automation"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-6 Years",
+    "location": "Thiruvananthapuram, Kerala (Technopark)",
+    "salary": "₹8.5 LPA - ₹14 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-14"
+  },
+  {
+    "id": 93,
+    "title": "Urgent: Junior Data Analyst",
+    "company": "IBM",
+    "description": "Analyze business metrics, build interactive dashboards, query SQL databases, and prepare executive summary reports.",
+    "stack": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Power BI",
+      "Excel",
+      "Tableau"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kozhikode, Kerala (Cyberpark)",
+    "salary": "₹4 LPA - ₹5.5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-13"
+  },
+  {
+    "id": 94,
+    "title": "Urgent: Machine Learning Engineer",
+    "company": "Capgemini",
+    "description": "Train, fine-tune, and deploy predictive ML models and NLP systems into production. Manage dataset pipelines and model monitoring.",
+    "stack": [
+      "Python",
+      "PyTorch",
+      "Scikit-Learn",
+      "FastAPI",
+      "Docker",
+      "MLflow",
+      "HuggingFace"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-5 Years",
+    "location": "Bengaluru, Karnataka (Hybrid)",
+    "salary": "₹12 LPA - ₹20 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-12"
+  },
+  {
+    "id": 95,
+    "title": "Urgent: Generative AI & LLM Specialist",
+    "company": "LTIMindtree",
+    "description": "Build Retrieval-Augmented Generation (RAG) pipelines, agentic workflows, and customized enterprise LLM search systems.",
+    "stack": [
+      "Python",
+      "LangChain",
+      "LlamaIndex",
+      "OpenAI APIs",
+      "Vector DBs (Pinecone/Chroma)",
+      "RAG"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-5 Years",
+    "location": "Bengaluru, Karnataka (Remote)",
+    "salary": "₹15 LPA - ₹24 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-11"
+  },
+  {
+    "id": 96,
+    "title": "Urgent: Associate AI / ML Intern",
+    "company": "HCLTech",
+    "description": "Entry-level position for graduates excited about data science and artificial intelligence. Assist in data cleaning, EDA, and model testing.",
+    "stack": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Math/Statistics",
+      "Machine Learning Basics",
+      "Jupyter"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Hyderabad, Telangana (Hybrid)",
+    "salary": "₹3.8 LPA - ₹5 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-10"
+  },
+  {
+    "id": 97,
+    "title": "Urgent: Junior SOC Analyst",
+    "company": "Tech Mahindra",
+    "description": "Monitor security event logs, analyze suspicious alerts, triage potential incidents, and verify network compliance.",
+    "stack": [
+      "SIEM (Splunk)",
+      "Wireshark",
+      "Network Security",
+      "Linux",
+      "Incident Response"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Chennai, Tamil Nadu (On-site)",
+    "salary": "₹3.6 LPA - ₹4.8 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-09"
+  },
+  {
+    "id": 98,
+    "title": "Urgent: Cybersecurity Specialist & Penetration Tester",
+    "company": "CareStack",
+    "description": "Perform ethical hacking, vulnerability assessments, and penetration testing on web apps, mobile apps, and cloud infrastructure.",
+    "stack": [
+      "Burp Suite",
+      "Metasploit",
+      "OWASP Top 10",
+      "Network Penetration Testing",
+      "Python",
+      "Kali Linux"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "3-6 Years",
+    "location": "Pune, Maharashtra (Hybrid)",
+    "salary": "₹11 LPA - ₹18 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-08"
+  },
+  {
+    "id": 99,
+    "title": "Urgent: Golang Backend Developer",
+    "company": "SurveySparrow",
+    "description": "Build ultra-fast, concurrent backend services in Go with gRPC communication and robust error handling.",
+    "stack": [
+      "Go (Golang)",
+      "gRPC",
+      "Protobuf",
+      "PostgreSQL",
+      "Docker",
+      "Microservices"
+    ],
+    "experience_level": "Experienced",
+    "experience_years": "2-5 Years",
+    "location": "Remote, India",
+    "salary": "₹11 LPA - ₹17 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-07"
+  },
+  {
+    "id": 100,
+    "title": "Urgent: Junior UI/UX Designer & Web Trainee",
+    "company": "Neoito",
+    "description": "Design wireframes, modern user interfaces, conduct user research, and assist in converting design prototypes into code.",
+    "stack": [
+      "Figma",
+      "Adobe XD",
+      "Wireframing",
+      "Prototyping",
+      "HTML/CSS Basics"
+    ],
+    "experience_level": "Fresher",
+    "experience_years": "0-1 Years",
+    "location": "Kochi, Kerala (Hybrid)",
+    "salary": "₹3.2 LPA - ₹4.4 LPA",
+    "type": "Full-time",
+    "posted_date": "2026-10-06"
+  }
+]
