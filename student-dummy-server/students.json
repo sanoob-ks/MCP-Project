@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Krishna",
+    "age": 22,
+    "address": {
+      "houseName": "Krishna Kripa",
+      "street": "MG Road",
+      "place": "Edappally",
+      "city": "Kochi",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "pincode": "682024"
+    },
+    "techStack": "MERN Stack",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Intermediate",
+        "rating": 7.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Advanced",
+        "rating": 8.0,
+        "maxRating": 10
+      },
+      {
+        "skill": "React.js",
+        "level": "Advanced",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Node.js",
+        "level": "Intermediate",
+        "rating": 7.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "JavaScript (ES6+)",
+        "level": "Advanced",
+        "rating": 8.5,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ananya Nair",
+    "age": 23,
+    "address": {
+      "houseName": "Sreevalsam",
+      "street": "Kowdiar Avenue",
+      "place": "Kowdiar",
+      "city": "Thiruvananthapuram",
+      "district": "Thiruvananthapuram",
+      "state": "Kerala",
+      "pincode": "695003"
+    },
+    "techStack": "MEAN Stack",
+    "overallExperience": "Advanced",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Advanced",
+        "rating": 8.0,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Intermediate",
+        "rating": 7.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Angular",
+        "level": "Expert",
+        "rating": 9.0,
+        "maxRating": 10
+      },
+      {
+        "skill": "Node.js",
+        "level": "Advanced",
+        "rating": 8.0,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Expert",
+        "rating": 9.0,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Fahad Mohammed",
+    "age": 21,
+    "address": {
+      "houseName": "Baitul Noor",
+      "street": "Beach Road",
+      "place": "Mananchira",
+      "city": "Kozhikode",
+      "district": "Kozhikode",
+      "state": "Kerala",
+      "pincode": "673001"
+    },
+    "techStack": "Angular Frontend",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Angular",
+        "level": "Advanced",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "TypeScript",
+        "level": "Advanced",
+        "rating": 8.0,
+        "maxRating": 10
+      },
+      {
+        "skill": "RxJS",
+        "level": "Intermediate",
+        "rating": 7.0,
+        "maxRating": 10
+      },
+      {
+        "skill": "HTML5 / SCSS",
+        "level": "Expert",
+        "rating": 9.0,
+        "maxRating": 10
+      },
+      {
+        "skill": "Tailwind CSS",
+        "level": "Advanced",
+        "rating": 8.5,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Devika Menon",
+    "age": 24,
+    "address": {
+      "houseName": "Sobha Enclave",
+      "street": "Round North",
+      "place": "Swaraj Round",
+      "city": "Thrissur",
+      "district": "Thrissur",
+      "state": "Kerala",
+      "pincode": "680001"
+    },
+    "techStack": "MERN Stack",
+    "overallExperience": "Expert",
+    "skills": [
+      {
+        "skill": "MongoDB",
+        "level": "Expert",
+        "rating": 9.0,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Advanced",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "React.js",
+        "level": "Expert",
+        "rating": 9.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Node.js",
+        "level": "Advanced",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Redux Toolkit",
+        "level": "Advanced",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Next.js",
+        "level": "Advanced",
+        "rating": 8.0,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Arjun Das",
+    "age": 22,
+    "address": {
+      "houseName": "Punnapra House",
+      "street": "Boat Jetty Road",
+      "place": "Mullakkal",
+      "city": "Alappuzha",
+      "district": "Alappuzha",
+      "state": "Kerala",
+      "pincode": "688011"
+    },
+    "techStack": "Python Full Stack",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Python",
+        "level": "Advanced",
+        "rating": 8.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "Django",
+        "level": "Intermediate",
+        "rating": 7.5,
+        "maxRating": 10
+      },
+      {
+        "skill": "React.js",
+        "level": "Intermediate",
+        "rating": 7.0,
+        "maxRating": 10
+      },
+      {
+        "skill": "PostgreSQL",
+        "level": "Intermediate",
+        "rating": 7.0,
+        "maxRating": 10
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sneha Varghese",
+    "age": 23,
+    "address": {
+      "houseName": "Bethel Villa",
+      "street": "Collectorate Road",
+      "place": "Kanjikuzhy",
+      "city": "Kottayam",
+      "district": "Kottayam",
+      "state": "Kerala",
+      "pincode": "686004"
+    },
+    "techStack": "MEAN Stack",
+    "overallExperience": "Intermediate",
+    "skills": [
+      {
+        "skill": "Angular",
+        "level": "Advanced",
+        "rating": 8.0,
+        "maxRating": 10
+      },
+      {
+        "skill": "Node.js",
+        "level": "Intermediate",
+        "rating": 7.0,
+        "maxRating": 10
+      },
+      {
+        "skill": "Express.js",
+        "level": "Intermediate",
+        "rating": 7.0,
+        "maxRating": 10
+      },
+      {
+        "skill": "MongoDB",
+        "level": "Intermediate",
+        "rating": 7.0,
+        "maxRating": 10
+      }
+    ]
+  }
+]
